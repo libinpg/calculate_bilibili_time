@@ -1,0 +1,2130 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+ <head itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
+  <meta content="telephone=no, email=no" name="format-detection"/>
+  <meta charset="utf-8" content="text/html" http-equiv="Content-Type"/>
+  <meta content="333.788" name="spm_prefix"/>
+  <meta content="no-referrer-when-downgrade" name="referrer"/>
+  <link href="//s1.hdslb.com/bfs/static/jinkela/long/laputa-css/map.css" rel="stylesheet"/>
+  <link href="//s1.hdslb.com/bfs/static/jinkela/long/laputa-css/light_u.css" rel="stylesheet"/>
+  <link href="//s1.hdslb.com/bfs/static/jinkela/long/laputa-css/light.css" id="__css-map__" rel="stylesheet"/>
+  <script type="text/javascript">
+   window.webAbTest={"webplayer":"5","pc_player_autoplay_switch_reset":"1","nc_test":"4","buvidsplit":"13"}
+  </script>
+  <title data-vue-meta="true">
+   最全最新Vue、Vuejs教程，从入门到精通_哔哩哔哩_bilibili
+  </title>
+  <meta content="webkit" data-vue-meta="true" name="renderer"/>
+  <meta content="IE=edge" data-vue-meta="true" http-equiv="X-UA-Compatible"/>
+  <meta content="最全最新Vue、Vuejs教程，从入门到精通,VUE,VUEJS,前端,前端开发,vue,JavaScript,JS,WEBPACK,WEB前端,知识,野生技能协会,哔哩哔哩,Bilibili,B站,弹幕" data-vue-meta="true" itemprop="keywords" name="keywords"/>
+  <meta content="学习资料添加微信 ilovecoding，我尽力了你们的三连看着办吧，老师微信 coderwhy00（之前那个满了），老师也来B站了" data-vue-meta="true" itemprop="description" name="description"/>
+  <meta content="ilovecoding" data-vue-meta="true" itemprop="author" name="author"/>
+  <meta content="最全最新Vue、Vuejs教程，从入门到精通_哔哩哔哩_bilibili" data-vue-meta="true" itemprop="name" name="title"/>
+  <meta content="https://www.bilibili.com/video/BV15741177Eh/" data-vue-meta="true" itemprop="url"/>
+  <meta content="http://i1.hdslb.com/bfs/archive/b1b39b6bb046f05940bc3232ede968870b06b10a.jpg" data-vue-meta="true" itemprop="image"/>
+  <meta content="http://i1.hdslb.com/bfs/archive/b1b39b6bb046f05940bc3232ede968870b06b10a.jpg" data-vue-meta="true" itemprop="thumbnailUrl"/>
+  <meta content="2020-02-18 00:05:36" data-vue-meta="true" itemprop="uploadDate"/>
+  <meta content="2020-02-18 00:05:36" data-vue-meta="true" itemprop="datePublished"/>
+  <meta content="video" data-vue-meta="true" property="og:type"/>
+  <meta content="最全最新Vue、Vuejs教程，从入门到精通_哔哩哔哩_bilibili" data-vue-meta="true" property="og:title"/>
+  <meta content="http://i1.hdslb.com/bfs/archive/b1b39b6bb046f05940bc3232ede968870b06b10a.jpg" data-vue-meta="true" property="og:image"/>
+  <meta content="https://www.bilibili.com/video/BV15741177Eh/" data-vue-meta="true" property="og:url"/>
+  <meta content="846" data-vue-meta="true" property="og:width"/>
+  <meta content="566" data-vue-meta="true" property="og:height"/>
+  <link data-vue-meta="true" href="https://www.bilibili.com/video/BV15741177Eh/" rel="canonical"/>
+  <link data-vue-meta="true" href="http://i1.hdslb.com/bfs/archive/b1b39b6bb046f05940bc3232ede968870b06b10a.jpg@57w_57h_1c.png" rel="apple-touch-icon"/>
+  <script type="text/javascript">
+   function reportFistAdFs(){1<window.SPACount||window.performance&&window.performance.timing&&(window.spmReportData.reco_components_loaded={first_slide_ad_img:(new Date).getTime()-window.performance.timing.navigationStart})}!function(){var o=window.navigator.userAgent,i=["Android","iPhone","SymbianOS","Windows Phone","iPod"],n=!0;if(!/\sVR\s/g.test(o)){for(var e=0,r=i.length;e<r;e++)if(0<o.indexOf(i[e])){n=!1;break}if(!n){var a=window.location.origin.replace("www","m")+"/video/"+window.location.href.match(/(av[0-9]+)|bv1\w+/g)[0]+window.location.search;window.location.href=a}}}(),window.spmReportData={},window.reportConfig={sample:1,scrollTracker:!0,msgObjects:"spmReportData",errorTracker:!0}
+  </script>
+  <style>
+   .ie-fix{background:#fff;position:fixed;left:0;top:0;right:0;bottom:0;width:100%;height:100%;z-index:9999999}.ie-fix .title{background:#00a1d6;text-align:center;padding:10px 0;color:#fff}
+  </style>
+  <style id="setSizeStyle">
+  </style>
+  <script src="//s1.hdslb.com/bfs/static/player/main/video.7b2ae161.js?v=20210111" type="text/javascript">
+  </script>
+  <script>
+   window.__playinfo__={"code":0,"message":"0","ttl":1,"data":{"from":"local","result":"suee","message":"","quality":32,"format":"flv480","timelength":34411,"accept_format":"flv480,mp4","accept_description":["清晰 480P","流畅 360P"],"accept_quality":[32,16],"video_codecid":7,"seek_param":"start","seek_type":"offset","dash":{"duration":35,"minBufferTime":1.5,"min_buffer_time":1.5,"video":[{"id":32,"baseUrl":"https://upos-sz-mirrorkodo.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=kodobv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=a4364724318e2c5254fb72f4c63e9793&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=39304&logo=80000000","base_url":"https://upos-sz-mirrorkodo.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=kodobv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=a4364724318e2c5254fb72f4c63e9793&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=39304&logo=80000000","backupUrl":["https://upos-sz-mirrorkodo.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=kodobv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=a4364724318e2c5254fb72f4c63e9793&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=1,3&agrr=1&bw=39304&logo=40000000","https://upos-sz-mirrorkodob.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=kodobbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=36fc425de7b2f8cdb429cf56af2197fb&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=2,3&agrr=1&bw=39304&logo=40000000"],"backup_url":["https://upos-sz-mirrorkodo.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=kodobv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=a4364724318e2c5254fb72f4c63e9793&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=1,3&agrr=1&bw=39304&logo=40000000","https://upos-sz-mirrorkodob.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=kodobbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=36fc425de7b2f8cdb429cf56af2197fb&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=2,3&agrr=1&bw=39304&logo=40000000"],"bandwidth":311386,"mimeType":"video/mp4","mime_type":"video/mp4","codecs":"avc1.64001E","width":640,"height":480,"frameRate":"29.412","frame_rate":"29.412","sar":"1:1","startWithSap":1,"start_with_sap":1,"SegmentBase":{"Initialization":"0-989","indexRange":"990-1105"},"segment_base":{"initialization":"0-989","index_range":"990-1105"},"codecid":7},{"id":32,"baseUrl":"https://upos-sz-mirrorhw.bilivideo.com/upgcxcode/14/76/259127614/259127614_x2-1-30033.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=hwbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=fd32abf37a15f98fc1b1dc03d3067ee4&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=26715&logo=80000000","base_url":"https://upos-sz-mirrorhw.bilivideo.com/upgcxcode/14/76/259127614/259127614_x2-1-30033.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=hwbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=fd32abf37a15f98fc1b1dc03d3067ee4&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=26715&logo=80000000","backupUrl":["https://upos-sz-mirrorhw.bilivideo.com/upgcxcode/14/76/259127614/259127614_x2-1-30033.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=hwbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=fd32abf37a15f98fc1b1dc03d3067ee4&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=1,3&agrr=1&bw=26715&logo=40000000","https://upos-sz-mirrorhwb.bilivideo.com/upgcxcode/14/76/259127614/259127614_x2-1-30033.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=hwbbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=e973af420670dd08fdf24ebb46309e13&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=2,3&agrr=1&bw=26715&logo=40000000"],"backup_url":["https://upos-sz-mirrorhw.bilivideo.com/upgcxcode/14/76/259127614/259127614_x2-1-30033.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=hwbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=fd32abf37a15f98fc1b1dc03d3067ee4&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=1,3&agrr=1&bw=26715&logo=40000000","https://upos-sz-mirrorhwb.bilivideo.com/upgcxcode/14/76/259127614/259127614_x2-1-30033.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=hwbbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=e973af420670dd08fdf24ebb46309e13&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=2,3&agrr=1&bw=26715&logo=40000000"],"bandwidth":211859,"mimeType":"video/mp4","mime_type":"video/mp4","codecs":"hev1.1.6.L120.90","width":640,"height":480,"frameRate":"30.303","frame_rate":"30.303","sar":"1:1","startWithSap":1,"start_with_sap":1,"SegmentBase":{"Initialization":"0-1053","indexRange":"1054-1169"},"segment_base":{"initialization":"0-1053","index_range":"1054-1169"},"codecid":12},{"id":32,"baseUrl":"https://upos-sz-mirrorhwo1.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-100023.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=hwo1bv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=f0ebf96d2f9b327267f549bbb5a7e049&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=25825&logo=80000000","base_url":"https://upos-sz-mirrorhwo1.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-100023.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=hwo1bv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=f0ebf96d2f9b327267f549bbb5a7e049&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=25825&logo=80000000","backupUrl":["https://upos-sz-mirrorhw.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-100023.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=hwbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=31a81b2cd6a8d5768ea202353ccdbd9e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=1,3&agrr=1&bw=25825&logo=40000000","https://upos-sz-mirrorhwb.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-100023.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=hwbbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=5e658059b7f32ac8cdd49f41a4dc240b&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=2,3&agrr=1&bw=25825&logo=40000000"],"backup_url":["https://upos-sz-mirrorhw.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-100023.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=hwbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=31a81b2cd6a8d5768ea202353ccdbd9e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=1,3&agrr=1&bw=25825&logo=40000000","https://upos-sz-mirrorhwb.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-100023.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=hwbbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=5e658059b7f32ac8cdd49f41a4dc240b&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=2,3&agrr=1&bw=25825&logo=40000000"],"bandwidth":202189,"mimeType":"video/mp4","mime_type":"video/mp4","codecs":"av01.0.04M.08.0.110.01.01.01.0","width":640,"height":480,"frameRate":"30.019","frame_rate":"30.019","sar":"1:1","startWithSap":1,"start_with_sap":1,"SegmentBase":{"Initialization":"0-971","indexRange":"1000-1115"},"segment_base":{"initialization":"0-971","index_range":"1000-1115"},"codecid":13},{"id":16,"baseUrl":"https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/14/76/259127614/259127614_x2-1-30011.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=cosbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=eed32b4590d22d32401588d63f508b8f&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=28701&logo=80000000","base_url":"https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/14/76/259127614/259127614_x2-1-30011.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=cosbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=eed32b4590d22d32401588d63f508b8f&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=28701&logo=80000000","backupUrl":["https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/14/76/259127614/259127614_x2-1-30011.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=cosbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=eed32b4590d22d32401588d63f508b8f&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=1,3&agrr=1&bw=28701&logo=40000000","https://upos-sz-mirrorcosb.bilivideo.com/upgcxcode/14/76/259127614/259127614_x2-1-30011.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=cosbbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=d23889c5fca7b0ce6a1329e4f040a516&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=2,3&agrr=1&bw=28701&logo=40000000"],"backup_url":["https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/14/76/259127614/259127614_x2-1-30011.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=cosbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=eed32b4590d22d32401588d63f508b8f&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=1,3&agrr=1&bw=28701&logo=40000000","https://upos-sz-mirrorcosb.bilivideo.com/upgcxcode/14/76/259127614/259127614_x2-1-30011.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=cosbbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=d23889c5fca7b0ce6a1329e4f040a516&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=2,3&agrr=1&bw=28701&logo=40000000"],"bandwidth":227609,"mimeType":"video/mp4","mime_type":"video/mp4","codecs":"hev1.1.6.L120.90","width":480,"height":360,"frameRate":"30.303","frame_rate":"30.303","sar":"1:1","startWithSap":1,"start_with_sap":1,"SegmentBase":{"Initialization":"0-1054","indexRange":"1055-1170"},"segment_base":{"initialization":"0-1054","index_range":"1055-1170"},"codecid":12},{"id":16,"baseUrl":"https://upos-sz-estgcos.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-30016.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=upos&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=e28acbc0947f70a160389c2be534a60f&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=22319&logo=80000000","base_url":"https://upos-sz-estgcos.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-30016.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=upos&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=e28acbc0947f70a160389c2be534a60f&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=22319&logo=80000000","backupUrl":["https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-30016.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=cosbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=7baa7d30b8647bcef67ef73020c30a64&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=1,3&agrr=1&bw=22319&logo=40000000","https://upos-sz-mirrorcosb.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-30016.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=cosbbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=6fd396f353349b11c157c27a35ae7797&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=2,3&agrr=1&bw=22319&logo=40000000"],"backup_url":["https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-30016.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=cosbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=7baa7d30b8647bcef67ef73020c30a64&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=1,3&agrr=1&bw=22319&logo=40000000","https://upos-sz-mirrorcosb.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-30016.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=cosbbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=6fd396f353349b11c157c27a35ae7797&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=2,3&agrr=1&bw=22319&logo=40000000"],"bandwidth":176821,"mimeType":"video/mp4","mime_type":"video/mp4","codecs":"avc1.64001E","width":480,"height":360,"frameRate":"29.412","frame_rate":"29.412","sar":"1:1","startWithSap":1,"start_with_sap":1,"SegmentBase":{"Initialization":"0-1015","indexRange":"1016-1131"},"segment_base":{"initialization":"0-1015","index_range":"1016-1131"},"codecid":7},{"id":16,"baseUrl":"https://upos-sz-mirrorhwo1.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-100022.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=hwo1bv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=ce60c13c8d8ba0dd6a0f981b47bc8297&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=25454&logo=80000000","base_url":"https://upos-sz-mirrorhwo1.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-100022.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=hwo1bv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=ce60c13c8d8ba0dd6a0f981b47bc8297&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=25454&logo=80000000","backupUrl":["https://upos-sz-mirrorhw.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-100022.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=hwbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=d5ef54c6e028ce47ce430702687eef29&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=1,3&agrr=1&bw=25454&logo=40000000","https://upos-sz-mirrorhwb.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-100022.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=hwbbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=10b24eb9e69d5ead432d553c7e4c8a2c&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=2,3&agrr=1&bw=25454&logo=40000000"],"backup_url":["https://upos-sz-mirrorhw.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-100022.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=hwbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=d5ef54c6e028ce47ce430702687eef29&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=1,3&agrr=1&bw=25454&logo=40000000","https://upos-sz-mirrorhwb.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-100022.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=hwbbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=10b24eb9e69d5ead432d553c7e4c8a2c&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=2,3&agrr=1&bw=25454&logo=40000000"],"bandwidth":199253,"mimeType":"video/mp4","mime_type":"video/mp4","codecs":"av01.0.01M.08.0.110.01.01.01.0","width":480,"height":360,"frameRate":"30.019","frame_rate":"30.019","sar":"1:1","startWithSap":1,"start_with_sap":1,"SegmentBase":{"Initialization":"0-971","indexRange":"1000-1115"},"segment_base":{"initialization":"0-971","index_range":"1000-1115"},"codecid":13}],"audio":[{"id":30216,"baseUrl":"https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-30216.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=cosbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=bb29597918386dde66b946885a2bf4ae&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=8563&logo=80000000","base_url":"https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-30216.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=cosbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=bb29597918386dde66b946885a2bf4ae&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=8563&logo=80000000","backupUrl":["https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-30216.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=cosbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=bb29597918386dde66b946885a2bf4ae&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=1,3&agrr=1&bw=8563&logo=40000000","https://upos-sz-mirrorcosb.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-30216.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=cosbbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=be4738ef75b347f9e18306a3fde2e774&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=2,3&agrr=1&bw=8563&logo=40000000"],"backup_url":["https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-30216.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=cosbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=bb29597918386dde66b946885a2bf4ae&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=1,3&agrr=1&bw=8563&logo=40000000","https://upos-sz-mirrorcosb.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-30216.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=cosbbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=be4738ef75b347f9e18306a3fde2e774&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=2,3&agrr=1&bw=8563&logo=40000000"],"bandwidth":67685,"mimeType":"audio/mp4","mime_type":"audio/mp4","codecs":"mp4a.40.2","width":0,"height":0,"frameRate":"","frame_rate":"","sar":"","startWithSap":0,"start_with_sap":0,"SegmentBase":{"Initialization":"0-932","indexRange":"933-1048"},"segment_base":{"initialization":"0-932","index_range":"933-1048"},"codecid":0},{"id":30232,"baseUrl":"https://upos-sz-mirrorkodo.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-30232.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=kodobv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=7760faf034057fdae8bfc9b7b3e76469&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=12160&logo=80000000","base_url":"https://upos-sz-mirrorkodo.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-30232.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=kodobv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=7760faf034057fdae8bfc9b7b3e76469&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=12160&logo=80000000","backupUrl":["https://upos-sz-mirrorkodo.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-30232.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=kodobv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=7760faf034057fdae8bfc9b7b3e76469&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=1,3&agrr=1&bw=12160&logo=40000000","https://upos-sz-mirrorkodob.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-30232.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=kodobbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=048a4e9bc37284af984a6cfbe63f6902&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=2,3&agrr=1&bw=12160&logo=40000000"],"backup_url":["https://upos-sz-mirrorkodo.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-30232.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=kodobv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=7760faf034057fdae8bfc9b7b3e76469&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=1,3&agrr=1&bw=12160&logo=40000000","https://upos-sz-mirrorkodob.bilivideo.com/upgcxcode/14/76/259127614/259127614-1-30232.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648924063&gen=playurlv2&os=kodobbv&oi=1708041978&trid=97bfcc1a644b4a54b3b34c6a66e9ff0du&platform=pc&upsig=048a4e9bc37284af984a6cfbe63f6902&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&orderid=2,3&agrr=1&bw=12160&logo=40000000"],"bandwidth":96120,"mimeType":"audio/mp4","mime_type":"audio/mp4","codecs":"mp4a.40.2","width":0,"height":0,"frameRate":"","frame_rate":"","sar":"","startWithSap":0,"start_with_sap":0,"SegmentBase":{"Initialization":"0-907","indexRange":"908-1023"},"segment_base":{"initialization":"0-907","index_range":"908-1023"},"codecid":0}],"dolby":null},"support_formats":[{"quality":32,"format":"flv480","new_description":"480P 清晰","display_desc":"480P","superscript":"","codecs":["av01.0.04M.08.0.110.01.01.01.0","avc1.64001E","hev1.1.6.L120.90"]},{"quality":16,"format":"mp4","new_description":"360P 流畅","display_desc":"360P","superscript":"","codecs":["av01.0.01M.08.0.110.01.01.01.0","avc1.64001E","hev1.1.6.L120.90"]}],"high_format":null,"volume":{"measured_i":0,"measured_lra":0,"measured_tp":0,"measured_threshold":0,"target_offset":0,"target_i":-14,"target_tp":-1}},"session":"d8e943e3da7df01b6d9839861cdd0b54"}
+  </script>
+  <script>
+   window.__INITIAL_STATE__={"aid":89760569,"bvid":"BV15741177Eh","p":1,"episode":"","videoData":{"bvid":"BV15741177Eh","aid":89760569,"videos":232,"tid":122,"tname":"野生技能协会","copyright":1,"pic":"http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Farchive\u002Fb1b39b6bb046f05940bc3232ede968870b06b10a.jpg","title":"最全最新Vue、Vuejs教程，从入门到精通","pubdate":1581955536,"ctime":1581955536,"desc":"学习资料添加微信 ilovecoding，我尽力了\r\n你们的三连看着办吧，老师微信 coderwhy00（之前那个满了），老师也来B站了","desc_v2":[{"raw_text":"学习资料添加微信 ilovecoding，我尽力了\r\n你们的三连看着办吧，老师微信 coderwhy00（之前那个满了），老师也来B站了","type":1,"biz_id":0}],"state":0,"duration":246604,"rights":{"bp":0,"elec":0,"download":1,"movie":0,"pay":0,"hd5":0,"no_reprint":1,"autoplay":1,"ugc_pay":0,"is_cooperation":0,"ugc_pay_preview":0,"no_background":0,"clean_mode":0,"is_stein_gate":0,"is_360":0,"no_share":0},"owner":{"mid":36139192,"name":"ilovecoding","face":"http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Fface\u002F563da1e098fb84ac349406696c7a43de501ea3fc.jpg"},"stat":{"aid":89760569,"view":5730539,"danmaku":280182,"reply":6476,"favorite":115331,"coin":49857,"share":18087,"now_rank":0,"his_rank":0,"like":46545,"dislike":0,"evaluation":"","argue_msg":"","viewseo":5730539},"dynamic":"","cid":259127614,"dimension":{"width":640,"height":480,"rotate":0},"no_cache":false,"pages":[{"cid":259127614,"page":1,"from":"vupload","part":"00-(重要)提示信息","duration":35,"vid":"","weblink":"","dimension":{"width":640,"height":480,"rotate":0}},{"cid":153295463,"page":2,"from":"vupload","part":"01-(了解)Vuejs课程介绍","duration":956,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153295549,"page":3,"from":"vupload","part":"02-(理解)Vuejs的认识和特点介绍","duration":1441,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153295662,"page":4,"from":"vupload","part":"03-(掌握)vuejs安装方式","duration":669,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153295722,"page":5,"from":"vupload","part":"04-(掌握)HelloVuejs的初体验","duration":1289,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153295831,"page":6,"from":"vupload","part":"05-(掌握)Vue列表的展示","duration":698,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153295891,"page":7,"from":"vupload","part":"06-(掌握)小案例-计数器","duration":980,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153295977,"page":8,"from":"vupload","part":"07-(理解)Vue的mvvm","duration":701,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153296028,"page":9,"from":"vupload","part":"08-(理解)Vue的options选项","duration":439,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153296076,"page":10,"from":"vupload","part":"09-(理解)什么是Vue的生命周期","duration":1064,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153296191,"page":11,"from":"vupload","part":"10-(理解)Vue的生命周期函数有哪些","duration":600,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153296266,"page":12,"from":"vupload","part":"11-(了解)定义vue的template","duration":618,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153296321,"page":13,"from":"vupload","part":"12-(掌握)插值操作-mustache语法","duration":489,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153296359,"page":14,"from":"vupload","part":"13-(掌握)插值操作-其他指令使用","duration":1315,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153296473,"page":15,"from":"vupload","part":"14-(掌握)v-bind的基本使用","duration":814,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153296556,"page":16,"from":"vupload","part":"15-(掌握)v-bind动态绑定class(对象语法)","duration":790,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153296626,"page":17,"from":"vupload","part":"16-(了解)v-bind动态绑定class(数组语法)","duration":459,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153296676,"page":18,"from":"vupload","part":"17-(完成)v-bind和v-for结合的作业布置","duration":330,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153296703,"page":19,"from":"vupload","part":"18-(掌握)v-bind动态绑定style(对象语法)","duration":1181,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153296822,"page":20,"from":"vupload","part":"19-(了解)v-bind动态绑定style(数组语法)","duration":178,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153296847,"page":21,"from":"vupload","part":"20-(掌握)计算属性的基本使用","duration":613,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153296901,"page":22,"from":"vupload","part":"21-(掌握)计算属性的复杂操作","duration":512,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153296946,"page":23,"from":"vupload","part":"22-(了解)课堂回顾","duration":878,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153297903,"page":24,"from":"vupload","part":"01-(理解)计算属性setter和getter","duration":962,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153297995,"page":25,"from":"vupload","part":"02-(掌握)计算属性和methods的对比","duration":594,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153298062,"page":26,"from":"vupload","part":"03-(掌握)块级作用域-let和var","duration":2274,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153298283,"page":27,"from":"vupload","part":"04-(理解)三种方案对比-ES5没有闭包-有闭包-ES6的let","duration":841,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153298367,"page":28,"from":"vupload","part":"05-(掌握)const的使用和注意点","duration":905,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153298429,"page":29,"from":"vupload","part":"06-(掌握)ES6对象字面量增强写法","duration":1052,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153298545,"page":30,"from":"vupload","part":"08-(掌握)v-on的基本使用和语法糖","duration":476,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153298586,"page":31,"from":"vupload","part":"09-(掌握)v-on的参数传递问题","duration":1076,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153298697,"page":32,"from":"vupload","part":"10-(掌握)v-on的修饰符使用","duration":754,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153298773,"page":33,"from":"vupload","part":"11-(掌握)v-if和v-else-if和v-else的使用","duration":722,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153298832,"page":34,"from":"vupload","part":"12-(掌握)登录切换的小案例","duration":423,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153298869,"page":35,"from":"vupload","part":"13-(理解)登录切换的input复用问题","duration":733,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153298929,"page":36,"from":"vupload","part":"14-(掌握)v-show的使用以及和v-if的区别","duration":475,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153298979,"page":37,"from":"vupload","part":"15-(掌握)v-for遍历数组和对象","duration":672,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153299030,"page":38,"from":"vupload","part":"16-(理解)v-for-绑定和非绑定key的区别","duration":1016,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153299117,"page":39,"from":"vupload","part":"17-(掌握)数组中哪些方法是响应式的","duration":1817,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153299285,"page":40,"from":"vupload","part":"18-(掌握)作业的回顾和实现","duration":642,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153299339,"page":41,"from":"vupload","part":"19-(掌握)购物车案例-界面搭建","duration":798,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153299417,"page":42,"from":"vupload","part":"20-(掌握)购物车案例-过滤器的使用","duration":333,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153299441,"page":43,"from":"vupload","part":"21-(掌握)购物车案例-改变购买数量","duration":524,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153299494,"page":44,"from":"vupload","part":"22-(掌握)购物车案例-移除按钮-最终价格","duration":385,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153299537,"page":45,"from":"vupload","part":"01-(掌握)JavaScript高阶函数的使用","duration":3000,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153299799,"page":46,"from":"vupload","part":"02-(掌握)v-model的使用和原理","duration":993,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153299878,"page":47,"from":"vupload","part":"03-(掌握)v-model结合radio类型使用","duration":531,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153299918,"page":48,"from":"vupload","part":"04-(掌握)v-model结合checkbox类型使用","duration":579,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153299968,"page":49,"from":"vupload","part":"05-(掌握)v-model结合select类型使用","duration":440,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153300012,"page":50,"from":"vupload","part":"06-(掌握)input中的值绑定","duration":473,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153300053,"page":51,"from":"vupload","part":"07-(掌握)v-model修饰符的使用","duration":620,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153300098,"page":52,"from":"vupload","part":"08-(掌握)组件化的实现和使用步骤","duration":959,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153300180,"page":53,"from":"vupload","part":"09-(掌握)组件化的基本使用过程","duration":692,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153300239,"page":54,"from":"vupload","part":"10-(掌握)全局组件和局部组件","duration":656,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153300359,"page":55,"from":"vupload","part":"11-(掌握)父组件和子组件的区分","duration":758,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153300433,"page":56,"from":"vupload","part":"12-(掌握)注册组件的语法糖写法","duration":639,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153300496,"page":57,"from":"vupload","part":"13-(掌握)组件模板抽离的写法","duration":458,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153300548,"page":58,"from":"vupload","part":"14-(理解)为什么组件data必须是函数","duration":1738,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153300690,"page":59,"from":"vupload","part":"15-(掌握)父子组件通信-父传子props","duration":2256,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153301033,"page":60,"from":"vupload","part":"16-(掌握)父子组件通信-props驼峰标识","duration":629,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153301081,"page":61,"from":"vupload","part":"17-(掌握)父子组件通信-子传父(自定义事件)","duration":1336,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153301229,"page":62,"from":"vupload","part":"18-(了解)项目演示","duration":693,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153301315,"page":63,"from":"vupload","part":"19-(了解)知识回顾","duration":1017,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153301417,"page":64,"from":"vupload","part":"01-(掌握)父子组件通信-结合双向绑定案例","duration":1927,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153301595,"page":65,"from":"vupload","part":"02-(掌握)结合双向绑定案例-画图分析","duration":767,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153301649,"page":66,"from":"vupload","part":"03-(了解)结合双向绑定案例-watch实现","duration":297,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153301677,"page":67,"from":"vupload","part":"04-(掌握)父访问子-children-refs","duration":1074,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153301783,"page":68,"from":"vupload","part":"05-(理解)子访问父-parent-root","duration":657,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153301845,"page":69,"from":"vupload","part":"06-(掌握)slot-插槽的基本使用","duration":1073,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153301976,"page":70,"from":"vupload","part":"07-(掌握)slot-具名插槽的使用","duration":434,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153302068,"page":71,"from":"vupload","part":"08-(理解)编译作用域的概念","duration":558,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153302137,"page":72,"from":"vupload","part":"09-(掌握)作用域插槽的使用","duration":980,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153302227,"page":73,"from":"vupload","part":"10-(理解)前端代码复杂带来的问题","duration":961,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153302406,"page":74,"from":"vupload","part":"11-(理解)前端模块化雏形和CommonJS","duration":1341,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153302574,"page":75,"from":"vupload","part":"12-(掌握)ES模块化的导入和导出","duration":1945,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153302951,"page":76,"from":"vupload","part":"13-(理解)webpack的介绍和安装","duration":1482,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153303034,"page":77,"from":"vupload","part":"14-(掌握)webpack的基本使用过程","duration":1134,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153303119,"page":78,"from":"vupload","part":"15-(掌握)webpack.config.js配置和package.json配置","duration":1695,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153303269,"page":79,"from":"vupload","part":"16-(掌握)webpack中使用css文件的配置","duration":1452,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153303473,"page":80,"from":"vupload","part":"01-(掌握)webpack-less文件的处理","duration":1248,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153303575,"page":81,"from":"vupload","part":"02-(掌握)webpack-图片文件的处理","duration":2315,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153303786,"page":82,"from":"vupload","part":"03-(掌握)webpack-ES6转ES5的babel","duration":852,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153303890,"page":83,"from":"vupload","part":"04-(掌握)webpack-使用Vue的配置过程","duration":1335,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153304062,"page":84,"from":"vupload","part":"05-(掌握)创建Vue时template和el关系","duration":556,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153304134,"page":85,"from":"vupload","part":"06-(掌握)Vue的终极使用方案","duration":1541,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153304331,"page":86,"from":"vupload","part":"07-(掌握)webpack-横幅Plugin的使用","duration":774,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153304394,"page":87,"from":"vupload","part":"08-(掌握)webpack-HtmlWebpackPlugin的使用","duration":754,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153304466,"page":88,"from":"vupload","part":"09-(掌握)webpack-UglifyjsWebpackPlugin的使用","duration":374,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153304521,"page":89,"from":"vupload","part":"10-(掌握)webpack-dev-server搭建本地服务器","duration":1034,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153304628,"page":90,"from":"vupload","part":"11-(掌握)webpack-配置文件的分离","duration":1011,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153304733,"page":91,"from":"vupload","part":"12-(理解)vuecli-脚手架的介绍和安装","duration":1433,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153304855,"page":92,"from":"vupload","part":"13-(掌握)vuecli-CLI2初始化项目过程","duration":1538,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153304984,"page":93,"from":"vupload","part":"14-(理解)vuecli-CLI2的目录结构解析","duration":2415,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153305171,"page":94,"from":"vupload","part":"15-(了解)知识回顾","duration":616,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153323998,"page":95,"from":"vupload","part":"01-(掌握)安装CLI错误和ESLint规范","duration":1775,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153324105,"page":96,"from":"vupload","part":"02-(理解)runtime-compiler和runtime-only的区别","duration":1963,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153324221,"page":97,"from":"vupload","part":"03-(掌握)VueCLI3创建项目和目录结构","duration":2528,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153324374,"page":98,"from":"vupload","part":"04-(掌握)VueCLI3配置文件的查看和修改","duration":1686,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153324510,"page":99,"from":"vupload","part":"05-(掌握)箭头函数的使用和this指向","duration":1316,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153324579,"page":100,"from":"vupload","part":"06-(理解)什么是路由和其中映射关系","duration":1074,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153324648,"page":101,"from":"vupload","part":"07-(理解)前端渲染后端渲染和前端路由后端路由","duration":2898,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153324846,"page":102,"from":"vupload","part":"08-(掌握)url的hash和HTML5的history","duration":1384,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153324940,"page":103,"from":"vupload","part":"09-(掌握)vue-router-安装和配置方式","duration":672,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153324984,"page":104,"from":"vupload","part":"10-(掌握)路由映射配置和呈现出来","duration":769,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153325035,"page":105,"from":"vupload","part":"11-(掌握)路由的默认值和修改为history模式","duration":578,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153325058,"page":106,"from":"vupload","part":"12-(掌握)router-link的其他属性补充","duration":581,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153325099,"page":107,"from":"vupload","part":"13-(掌握)通过代码跳转路由","duration":404,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153327672,"page":108,"from":"vupload","part":"01-(掌握)vue-router-动态路由的使用","duration":1600,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153327768,"page":109,"from":"vupload","part":"02-(掌握)vue-router-打包文件的解析","duration":1214,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153327872,"page":110,"from":"vupload","part":"03-(掌握)vue-router-路由懒加载的使用","duration":835,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153327926,"page":111,"from":"vupload","part":"04-(掌握)vue-router-路由的嵌套使用","duration":948,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153327985,"page":112,"from":"vupload","part":"05-(掌握)vue-router-参数传递(一)","duration":1412,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153328132,"page":113,"from":"vupload","part":"06-(掌握)vue-router-参数传递(二)","duration":284,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153328156,"page":114,"from":"vupload","part":"07-(理解)vue-router-router和route的由来","duration":1538,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153328269,"page":115,"from":"vupload","part":"08-(掌握)vue-router-全局导航守卫","duration":1006,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153328324,"page":116,"from":"vupload","part":"09-(理解)vue-router-导航守卫的补充","duration":890,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153328392,"page":117,"from":"vupload","part":"10-(掌握)vue-router-keep-alive及其他问题","duration":1824,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153328496,"page":118,"from":"vupload","part":"11-(掌握)vue-router-keep-alive属性介绍","duration":431,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153328515,"page":119,"from":"vupload","part":"12-(掌握)tabbar-基本结构的搭建","duration":1516,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153328626,"page":120,"from":"vupload","part":"13-(掌握)tabbar-TabBar和TabBarItem组件封装","duration":1479,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153328723,"page":121,"from":"vupload","part":"14-(掌握)tabbar-给TabBarItem传入active图片","duration":675,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153328770,"page":122,"from":"vupload","part":"15-(掌握)tabbar-TabBarItem和路由结合效果","duration":944,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153328827,"page":123,"from":"vupload","part":"16-(掌握)tabbar-TabBarItem的颜色动态控制","duration":912,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153328883,"page":124,"from":"vupload","part":"17-(了解)知识回顾","duration":722,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153328924,"page":125,"from":"vupload","part":"01-(掌握)tabbar-文件路径的引用问题","duration":999,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153328979,"page":126,"from":"vupload","part":"02-(掌握)Promise-Promise的介绍和基本使用","duration":2445,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153329134,"page":127,"from":"vupload","part":"03-(掌握)Promise-Promise的三种状态和另外处理方式","duration":614,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153329180,"page":128,"from":"vupload","part":"04-(掌握)Promise-Promise的链式调用","duration":1193,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153329248,"page":129,"from":"vupload","part":"05-(掌握)Promise-Promise的all方法使用","duration":790,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153329293,"page":130,"from":"vupload","part":"06-(掌握)vuex-Vuex概念和作用解析","duration":1278,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153329375,"page":131,"from":"vupload","part":"07-(掌握)vuex-单界面到多界面状态管理切换","duration":1835,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153329485,"page":132,"from":"vupload","part":"08-(掌握)vuex-devtools和mutations","duration":793,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153329531,"page":133,"from":"vupload","part":"09-(掌握)vuex-state单一状态树的理解","duration":756,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153329566,"page":134,"from":"vupload","part":"10-(掌握)vuex-getters的使用详解","duration":1288,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153329645,"page":135,"from":"vupload","part":"11-(掌握)vuex-mutations的携带参数","duration":649,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153329675,"page":136,"from":"vupload","part":"12-(掌握)vuex-mutations的提交风格","duration":363,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153329695,"page":137,"from":"vupload","part":"13-(掌握)vuex-数据的响应式原理","duration":1320,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153329769,"page":138,"from":"vupload","part":"14-(掌握)vuex-mutations的类型常量","duration":517,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153329794,"page":139,"from":"vupload","part":"15-(掌握)vuex-actions的使用详解","duration":1466,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153329876,"page":140,"from":"vupload","part":"16-(掌握)vuex-modules的使用详解","duration":1199,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153329962,"page":141,"from":"vupload","part":"17-(掌握)vuex-store文件夹的目录组织","duration":656,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153330015,"page":142,"from":"vupload","part":"01-(了解)网络请求模块的选择-axios","duration":776,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153330052,"page":143,"from":"vupload","part":"02-(掌握)axios框架的基本使用","duration":1344,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153330179,"page":144,"from":"vupload","part":"03-(掌握)axios发送并发请求","duration":841,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153330243,"page":145,"from":"vupload","part":"04-(掌握)axios的配置信息相关","duration":557,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153330278,"page":146,"from":"vupload","part":"05-(掌握)axios的实例和模块封装","duration":2415,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153330418,"page":147,"from":"vupload","part":"06-(掌握)axios的拦截器的使用","duration":1660,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153330504,"page":148,"from":"vupload","part":"07-(掌握)项目开发-项目创建和GitHub托管","duration":1344,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153330595,"page":149,"from":"vupload","part":"08-(掌握)项目开发-划分目录结构","duration":814,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153330635,"page":150,"from":"vupload","part":"09-(掌握)项目开发-css文件的引入","duration":675,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153330666,"page":151,"from":"vupload","part":"10-(掌握)项目开发-vue.config和editorconfig","duration":656,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153330690,"page":152,"from":"vupload","part":"11-(掌握)项目开发-tabbar引入和项目模块划分","duration":933,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153330740,"page":153,"from":"vupload","part":"12-(理解)项目开发-小图标的修改以及路径问题","duration":311,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153330767,"page":154,"from":"vupload","part":"13-(掌握)首页开发-首页导航栏的封装和使用","duration":1101,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153330830,"page":155,"from":"vupload","part":"14-(掌握)首页开发-请求首页的多个数据","duration":1671,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153330912,"page":156,"from":"vupload","part":"15-(掌握)首页开发-轮播图的展示","duration":1187,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153331003,"page":157,"from":"vupload","part":"16-(掌握)首页开发-推荐信息的展示","duration":680,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153331040,"page":158,"from":"vupload","part":"17-(了解)知识回顾2","duration":602,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153331078,"page":159,"from":"vupload","part":"01-(掌握)首页开发-FeatureView的封装","duration":844,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153331135,"page":160,"from":"vupload","part":"02-(掌握)首页开发-TabControl的封装","duration":1445,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153331239,"page":161,"from":"vupload","part":"03-(掌握)首页开发-保存商品的数据结构设计","duration":892,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153331295,"page":162,"from":"vupload","part":"04-(掌握)首页开发-首页数据的请求和保存","duration":1484,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153331396,"page":163,"from":"vupload","part":"05-(掌握)首页开发-首页商品数据的展示","duration":1630,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153331531,"page":164,"from":"vupload","part":"06-(掌握)首页开发-TabControl点击切换商品","duration":575,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153331585,"page":165,"from":"vupload","part":"07-(掌握)Better-Scroll的安装和使用","duration":1844,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153331720,"page":166,"from":"vupload","part":"08-(掌握)Better-scroll的基本使用解析","duration":2004,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153331842,"page":167,"from":"vupload","part":"09-(掌握)Better-Scroll在Vue项目中使用过程","duration":772,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153331894,"page":168,"from":"vupload","part":"10-(掌握)首页开发-BScroll的封装以及使用","duration":1952,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153332006,"page":169,"from":"vupload","part":"11-(掌握)首页开发-BackTop组件的封装和使用","duration":1375,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153328825,"page":170,"from":"vupload","part":"12-(掌握)首页开发-BackTop的显示和隐藏","duration":1459,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153332215,"page":171,"from":"vupload","part":"13-(掌握)首页开发-完成上拉加载更多","duration":1300,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153332327,"page":172,"from":"vupload","part":"01-(掌握)对昨天内容的回顾","duration":2213,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153332432,"page":173,"from":"vupload","part":"02-(掌握)首页开发-滚动区域的Bug分析和解决","duration":1687,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153332566,"page":174,"from":"vupload","part":"03-(掌握)refresh函数找不到的bug处理","duration":1142,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153332630,"page":175,"from":"vupload","part":"04-(掌握)刷新频繁的防抖函数处理","duration":1843,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153332719,"page":176,"from":"vupload","part":"05-(掌握)上拉加载更多的完成","duration":1152,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153332810,"page":177,"from":"vupload","part":"06-(掌握)tabControl的offsetTop获取分析","duration":620,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153332847,"page":178,"from":"vupload","part":"07-(掌握)TabControl的吸顶效果完成","duration":2099,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153332998,"page":179,"from":"vupload","part":"08-(掌握)Home离开时记录状态和位置","duration":1064,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153333062,"page":180,"from":"vupload","part":"09-(掌握)跳转到详情页并且携带iid","duration":668,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153333112,"page":181,"from":"vupload","part":"10-(掌握)详情页-导航栏的封装","duration":588,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153333143,"page":182,"from":"vupload","part":"11-(掌握)详情页-数据请求以及轮播图展示","duration":1202,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153333324,"page":183,"from":"vupload","part":"13-(掌握)详情页-店铺信息的解析和展示","duration":571,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153333231,"page":184,"from":"vupload","part":"12-(掌握)详情页-商品基本信息的展示","duration":1508,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153333357,"page":185,"from":"vupload","part":"14-(掌握)详情页-加入滚动的效果Scroll","duration":413,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153333390,"page":186,"from":"vupload","part":"15-(掌握)详情页-商品详情数据展示","duration":930,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153333453,"page":187,"from":"vupload","part":"16-(掌握)详情页-商品参数信息的展示","duration":406,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153333488,"page":188,"from":"vupload","part":"17-(了解)内容的回顾3","duration":463,"vid":"","weblink":"","dimension":{"width":1152,"height":720,"rotate":0}},{"cid":153396135,"page":189,"from":"vupload","part":"01-(掌握)详情页-从首页跳转详情页-iid","duration":790,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153396211,"page":190,"from":"vupload","part":"02-(掌握)详情页-首页位置的保持","duration":1478,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153396364,"page":191,"from":"vupload","part":"03-(掌握)详情页-详情页导航栏的实现","duration":735,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153396425,"page":192,"from":"vupload","part":"04-(理解)Better-Scroll的scrollto函数的Bug","duration":743,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153396505,"page":193,"from":"vupload","part":"05-(掌握)详情页-根据iid详情页数据的请求","duration":900,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153396568,"page":194,"from":"vupload","part":"06-(掌握)详情页-顶部轮播图的展示","duration":840,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153396646,"page":195,"from":"vupload","part":"07-(掌握)详情页-商品的基本信息展示","duration":2075,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153396851,"page":196,"from":"vupload","part":"08-(掌握)详情页-滚动问题处理和TabBar隐藏","duration":558,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153396924,"page":197,"from":"vupload","part":"09-(掌握)详情页-详情页店铺信息展示","duration":727,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153396987,"page":198,"from":"vupload","part":"10-(掌握)详情页-详情页商品图片信息展示","duration":773,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153397084,"page":199,"from":"vupload","part":"11-(掌握)详情页-商品参数信息的展示","duration":1912,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153397320,"page":200,"from":"vupload","part":"12-(掌握)详情页-商品评论信息的展示","duration":2352,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153397525,"page":201,"from":"vupload","part":"13-(掌握)详情页-商品推荐数据的展示","duration":469,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153397586,"page":202,"from":"vupload","part":"14-(掌握)详情页-首页和详情页监听全局事件和mixin的使用","duration":1524,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153397754,"page":203,"from":"vupload","part":"15-(了解)课堂内容回顾","duration":435,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153402127,"page":204,"from":"vupload","part":"01-(掌握)bug处理-首页TabControl不一致的问题","duration":892,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153402243,"page":205,"from":"vupload","part":"02-(掌握)bug处理-详情页不能滚动的bug处理","duration":1543,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153402457,"page":206,"from":"vupload","part":"03-(掌握)详情页-点击标题滚到对应内容","duration":2418,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153402876,"page":207,"from":"vupload","part":"04-(掌握)详情页-滚动内容显示对应标题","duration":1372,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153403057,"page":208,"from":"vupload","part":"05-(掌握)详情页-对复杂判断条件分析和优化","duration":1107,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153403185,"page":209,"from":"vupload","part":"06-(掌握)详情页-底部工具栏的封装","duration":572,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153403285,"page":210,"from":"vupload","part":"07-(掌握)详情页-BackTop的混入封装","duration":789,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153403392,"page":211,"from":"vupload","part":"08-(掌握)详情页-将商品添加到购物车中","duration":1296,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153403562,"page":212,"from":"vupload","part":"09-(掌握)详情页-将商品添加到store中","duration":1121,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153403843,"page":213,"from":"vupload","part":"10-(掌握)详情页-Vuex中代码的重构","duration":792,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153404139,"page":214,"from":"vupload","part":"11-(掌握)购物车-导航栏实现-Vuex知识点","duration":1267,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153404501,"page":215,"from":"vupload","part":"12-(掌握)购物车-购物车商品列表展示","duration":1509,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153404828,"page":216,"from":"vupload","part":"13-(掌握)购物车-购物车列表的Item展示","duration":809,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153404923,"page":217,"from":"vupload","part":"14-(掌握)购物车-Item选中和不选中的切换","duration":442,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153404966,"page":218,"from":"vupload","part":"15-(掌握)购物车-顶部工具的封装和应用","duration":1307,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153405124,"page":219,"from":"vupload","part":"16-(了解)内容回顾","duration":391,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153405161,"page":220,"from":"vupload","part":"01-(掌握)购物车-全选按钮的状态显示","duration":827,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153405286,"page":221,"from":"vupload","part":"02-(掌握)购物车-全选按钮的点击效果","duration":424,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153405353,"page":222,"from":"vupload","part":"03-(掌握)Vuex-actions返回Promise-mapActions","duration":805,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153405471,"page":223,"from":"vupload","part":"04-(掌握)Toast封装-普通方式的封装","duration":864,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153405559,"page":224,"from":"vupload","part":"05-(掌握)Toast封装-插件方式的封装","duration":1456,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153405784,"page":225,"from":"vupload","part":"06-(掌握)fastclick-解决移动端300ms延迟","duration":889,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153405900,"page":226,"from":"vupload","part":"07-(掌握)图片懒加载-vue-lazyload框架","duration":923,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153406046,"page":227,"from":"vupload","part":"08-(掌握)px2vw-css单位转化插件","duration":2478,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153406287,"page":228,"from":"vupload","part":"09-(理解)nginx-项目在window下的部署","duration":2566,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153406618,"page":229,"from":"vupload","part":"10-(理解)nginx-项目在远程linux下的部署","duration":1407,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153406836,"page":230,"from":"vupload","part":"11-(理解)响应式原理-依赖技术的分析和学习","duration":1493,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153406984,"page":231,"from":"vupload","part":"12-(理解)响应式原理-通过图解理解过程","duration":486,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}},{"cid":153407030,"page":232,"from":"vupload","part":"13-(理解)响应式原理-对应的代码阅读","duration":1754,"vid":"","weblink":"","dimension":{"width":1206,"height":720,"rotate":0}}],"subtitle":{"allow_submit":false,"list":[]},"is_season_display":false,"user_garb":{"url_image_ani_cut":""},"honor_reply":{},"embedPlayer":"EmbedPlayer(\"player\", \"\u002F\u002Fs1.hdslb.com\u002Fbfs\u002Fstatic\u002Fplayer\u002Fmain\u002Fflash\u002Fplay.swf\", \"cid=259127614&aid=89760569&attribute=undefined&bvid=BV15741177Eh&show_bv=1&pageVersion=0\")"},"upData":{"mid":"36139192","name":"ilovecoding","approve":false,"sex":"保密","rank":"10000","face":"http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Fface\u002F563da1e098fb84ac349406696c7a43de501ea3fc.jpg","face_nft":0,"DisplayRank":"0","regtime":0,"spacesta":0,"birthday":"","place":"","description":"","article":0,"attentions":[],"fans":81804,"friend":50,"attention":50,"sign":"希望跟着老师学习的可以添加老师微信 coderwhy123","level_info":{"current_level":6,"current_min":0,"current_exp":0,"next_exp":0},"pendant":{"pid":0,"name":"","image":"","expire":0,"image_enhance":"","image_enhance_frame":""},"nameplate":{"nid":1,"name":"黄金殿堂","image":"http:\u002F\u002Fi2.hdslb.com\u002Fbfs\u002Fface\u002F82896ff40fcb4e7c7259cb98056975830cb55695.png","image_small":"http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Fface\u002F627e342851dfda6fe7380c2fa0cbd7fae2e61533.png","level":"稀有勋章","condition":"单个自制视频总播放数\u003E=100万"},"Official":{"role":0,"title":"","desc":"","type":-1},"official_verify":{"type":-1,"desc":""},"vip":{"type":2,"status":1,"due_date":1677340800000,"vip_pay_type":1,"theme_type":0,"label":{"path":"","text":"年度大会员","label_theme":"annual_vip","text_color":"#FFFFFF","bg_style":1,"bg_color":"#FB7299","border_color":""},"avatar_subscript":1,"nickname_color":"#FB7299","role":3,"avatar_subscript_url":"http:\u002F\u002Fi0.hdslb.com\u002Fbfs\u002Fvip\u002Ficon_Certification_big_member_22_3x.png","vipType":2,"vipStatus":1},"is_senior_member":0,"archiveCount":13},"isCollection":0,"sectionsInfo":null,"playedSectionId":[],"sections":[],"staffData":[],"tags":[{"tag_id":1436606,"tag_name":"VUE","cover":"","head_cover":"","content":"","short_content":"","type":0,"state":0,"ctime":1447730507,"count":{"view":0,"use":13541,"atten":359},"is_atten":0,"likes":19,"hates":0,"attribute":0,"liked":0,"hated":0,"extra_attr":0,"tag_type":"old_channel","is_activity":false,"color":"","alpha":0,"is_season":false,"subscribed_count":359,"archive_count":"-","featured_count":0,"jump_url":"","showDetail":false,"showReport":false,"timeOut":null},{"tag_id":1993773,"tag_name":"VUEJS","cover":"","head_cover":"","content":"","short_content":"","type":0,"state":0,"ctime":1469516674,"count":{"view":0,"use":586,"atten":59},"is_atten":0,"likes":9,"hates":0,"attribute":0,"liked":0,"hated":0,"extra_attr":0,"tag_type":"old_channel","is_activity":false,"color":"","alpha":0,"is_season":false,"subscribed_count":59,"archive_count":"-","featured_count":0,"jump_url":"","showDetail":false,"showReport":false,"timeOut":null},{"tag_id":476562,"tag_name":"前端","cover":"","head_cover":"","content":"","short_content":"","type":0,"state":0,"ctime":1436866637,"count":{"view":0,"use":85508,"atten":1621},"is_atten":0,"likes":7,"hates":0,"attribute":0,"liked":0,"hated":0,"extra_attr":0,"tag_type":"old_channel","is_activity":false,"color":"","alpha":0,"is_season":false,"subscribed_count":1621,"archive_count":"-","featured_count":0,"jump_url":"","showDetail":false,"showReport":false,"timeOut":null},{"tag_id":2610643,"tag_name":"前端开发","cover":"","head_cover":"","content":"","short_content":"","type":0,"state":0,"ctime":1473498663,"count":{"view":0,"use":34548,"atten":790},"is_atten":0,"likes":5,"hates":0,"attribute":0,"liked":0,"hated":0,"extra_attr":0,"tag_type":"old_channel","is_activity":false,"color":"","alpha":0,"is_season":false,"subscribed_count":790,"archive_count":"-","featured_count":0,"jump_url":"","showDetail":false,"showReport":false,"timeOut":null},{"tag_id":2721621,"tag_name":"vue","cover":"","head_cover":"","content":"","short_content":"","type":0,"state":0,"ctime":1476463595,"count":{"view":0,"use":7316,"atten":240},"is_atten":0,"likes":5,"hates":0,"attribute":0,"liked":0,"hated":0,"extra_attr":0,"tag_type":"old_channel","is_activity":false,"color":"","alpha":0,"is_season":false,"subscribed_count":240,"archive_count":"-","featured_count":0,"jump_url":"","showDetail":false,"showReport":false,"timeOut":null},{"tag_id":2573142,"tag_name":"JavaScript","cover":"","head_cover":"","content":"","short_content":"","type":0,"state":0,"ctime":1472545886,"count":{"view":0,"use":12221,"atten":784},"is_atten":0,"likes":5,"hates":0,"attribute":0,"liked":0,"hated":0,"extra_attr":0,"tag_type":"old_channel","is_activity":false,"color":"","alpha":0,"is_season":false,"subscribed_count":784,"archive_count":"-","featured_count":0,"jump_url":"","showDetail":false,"showReport":false,"timeOut":null},{"tag_id":71256,"tag_name":"JS","cover":"","head_cover":"","content":"","short_content":"","type":0,"state":0,"ctime":1436866637,"count":{"view":0,"use":17619,"atten":233},"is_atten":0,"likes":4,"hates":0,"attribute":0,"liked":0,"hated":0,"extra_attr":0,"tag_type":"old_channel","is_activity":false,"color":"","alpha":0,"is_season":false,"subscribed_count":233,"archive_count":"-","featured_count":0,"jump_url":"","showDetail":false,"showReport":false,"timeOut":null},{"tag_id":2249571,"tag_name":"WEBPACK","cover":"","head_cover":"","content":"","short_content":"","type":0,"state":0,"ctime":1470138171,"count":{"view":0,"use":280,"atten":34},"is_atten":0,"likes":3,"hates":0,"attribute":0,"liked":0,"hated":0,"extra_attr":0,"tag_type":"old_channel","is_activity":false,"color":"","alpha":0,"is_season":false,"subscribed_count":34,"archive_count":"-","featured_count":0,"jump_url":"","showDetail":false,"showReport":false,"timeOut":null},{"tag_id":3171273,"tag_name":"WEB前端","cover":"","head_cover":"","content":"","short_content":"","type":0,"state":0,"ctime":1486474492,"count":{"view":0,"use":70516,"atten":1894},"is_atten":0,"likes":3,"hates":0,"attribute":0,"liked":0,"hated":0,"extra_attr":0,"tag_type":"old_channel","is_activity":false,"color":"","alpha":0,"is_season":false,"subscribed_count":1894,"archive_count":"-","featured_count":0,"jump_url":"","showDetail":false,"showReport":false,"timeOut":null}],"related":[{"aid":804122638,"cid":377282828,"bvid":"BV1Zy4y1K7SH","duration":166953,"pic":"http:\u002F\u002Fi2.hdslb.com\u002Fbfs\u002Farchive\u002F92b12d6b6702d900cff59060e25504187340207c.jpg","title":"尚硅谷Vue2.0+Vue3.0全套教程丨vuejs从入门到精通","owner":{"name":"尚硅谷","mid":302417610},"stat":{"danmaku":132720,"view":3443468},"season_id":0,"season_type":0},{"aid":64735195,"cid":112378056,"bvid":"BV1r4411d7dn","duration":69683,"pic":"http:\u002F\u002Fi0.hdslb.com\u002Fbfs\u002Farchive\u002Fd588be7663d0e3429afc155c3333505f1b86faf0.png","title":"Vue.js从入门到精通教程","owner":{"name":"黑马程序员教程资源","mid":434398067},"stat":{"danmaku":3099,"view":376282},"season_id":0,"season_type":0},{"aid":797566392,"cid":247941370,"bvid":"BV1ay4y1r78B","duration":18561,"pic":"http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Farchive\u002Fb180051e019ae83a3e3bde4e17c83009a2327143.jpg","title":"ES6从入门到精通系列(全23讲)，开发必备，推荐必看","owner":{"name":"小马哥_老师","mid":405541217},"stat":{"danmaku":1229,"view":70998},"season_id":0,"season_type":0},{"aid":251733147,"cid":442546269,"bvid":"BV1yY411x724","duration":17120,"pic":"http:\u002F\u002Fi2.hdslb.com\u002Fbfs\u002Farchive\u002F1f9a6c6316117e3c39e87009a741e99a033adf1e.jpg","title":"冒死上传：Vue从入门到精通（通俗易懂快速上手，适合零基础）小白快速入门vue.js、vue前端基础教程-4个小时带你快速入门vue","owner":{"name":"杭州码歌","mid":505965036},"stat":{"danmaku":170,"view":10679},"season_id":0,"season_type":0},{"aid":721344841,"cid":432223769,"bvid":"BV1eQ4y1q7xq","duration":17120,"pic":"http:\u002F\u002Fi0.hdslb.com\u002Fbfs\u002Farchive\u002F0bad37a2e52956e3692f4923e1e14556f9e206c5.png","title":"这可能是B站讲的最好的Vue教程，5h打通vue全套教程丨2021最新版，Vue2.0+Vue3.0从入门到精通，大厂前端必备技能（附源码&笔记）","owner":{"name":"不会取名字的程序猿","mid":1889891471},"stat":{"danmaku":8,"view":8033},"season_id":0,"season_type":0},{"aid":378304142,"cid":416982335,"bvid":"BV1if4y1F7gR","duration":17120,"pic":"http:\u002F\u002Fi2.hdslb.com\u002Fbfs\u002Farchive\u002F91860967a8aaf9d6f122f1c8e8fc68894c8905f6.png","title":"这可能是B站讲的最好的Vue教程，5h打通vue全套教程丨2021最新版，Vue2.0+Vue3.0从入门到精通，大厂前端必备技能","owner":{"name":"这个程序猿有点呆","mid":2119017152},"stat":{"danmaku":334,"view":40047},"season_id":0,"season_type":0},{"aid":506111256,"cid":423410134,"bvid":"BV1Fu411f7qi","duration":113474,"pic":"http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Farchive\u002F1afb507dbb6591c0564684b3e3d9a58ce05442b3.jpg","title":"【Vue+ElementUI】这可能是B站讲的最好的Vue教程，5h打通vue全套教程丨2021最新版，Vue2.0+Vue3.0从入门到精通，大厂前端必备技能","owner":{"name":"全栈哩哩o","mid":1346052604},"stat":{"danmaku":148,"view":29118},"season_id":0,"season_type":0},{"aid":249816018,"cid":391093692,"bvid":"BV15v411T7UX","duration":101552,"pic":"http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Farchive\u002Fc03171ff20406eb50d925f0b3fc596c6d1e1151e.png","title":"2021最全最新版VUE2.0+VUE3.0全套教程（上部），前端vuejs必备教程_从入门到精通vue项目实战挑战高薪，人类高质量课程","owner":{"name":"黑马前端教程","mid":513719037},"stat":{"danmaku":127,"view":13972},"season_id":0,"season_type":0},{"aid":547086864,"cid":563354549,"bvid":"BV1zq4y1p7ga","duration":215721,"pic":"http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Farchive\u002F2e20f95da4cbc6d4ec84ce24e01499973c7ebbd4.jpg","title":"黑马程序员Vue全套视频教程，从vue2.0到vue3.0一套全覆盖，前端必会的框架教程","owner":{"name":"黑马程序员","mid":37974444},"stat":{"danmaku":37020,"view":886732},"season_id":0,"season_type":0},{"aid":290399062,"cid":335562693,"bvid":"BV1gf4y1W783","duration":19149,"pic":"http:\u002F\u002Fi0.hdslb.com\u002Fbfs\u002Farchive\u002F2d1302ba55887e4f7715ea449d9582cf5d1a7803.png","title":"【2021年5月更新】Vue3+TypeScript从入门到实战全系列教程","owner":{"name":"北京一灯教育","mid":386251804},"stat":{"danmaku":813,"view":105550},"season_id":0,"season_type":0},{"aid":457225115,"cid":239293115,"bvid":"BV1L5411j7vj","duration":10306,"pic":"http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Farchive\u002Fa9a7a69ec26487d919fa827c86c9c29e21113621.jpg","title":"Vue3.x+TypeScript 从入门到实战-2020年新版-技术胖","owner":{"name":"技术胖","mid":165659472},"stat":{"danmaku":1837,"view":121084},"season_id":0,"season_type":0},{"aid":246892571,"cid":303181662,"bvid":"BV1Yv411Y7tw","duration":24008,"pic":"http:\u002F\u002Fi0.hdslb.com\u002Fbfs\u002Farchive\u002F7050db236052fdb5d3fb117fc97be561ef1dfe73.png","title":"vue-element-admin 手把手实现前后台分离的安全控制","owner":{"name":"Noble_Yang","mid":614604519},"stat":{"danmaku":236,"view":51431},"season_id":0,"season_type":0},{"aid":763904798,"cid":435086471,"bvid":"BV1cr4y1C71f","duration":121310,"pic":"http:\u002F\u002Fi0.hdslb.com\u002Fbfs\u002Farchive\u002F0f030cc5590942da9e0302ca08e506ab6c3d0f50.jpg","title":"小白24小时速学VUE—完整版","owner":{"name":"小浩编程","mid":393601975},"stat":{"danmaku":423,"view":42572},"season_id":0,"season_type":0},{"aid":202936380,"cid":259597127,"bvid":"BV1La411F7y8","duration":780,"pic":"http:\u002F\u002Fi2.hdslb.com\u002Fbfs\u002Farchive\u002F1a21f5e3a848b20300579981c0fc9a63842ebbb1.jpg","title":"10分钟写一个vue登陆页面","owner":{"name":"tinumb","mid":275735289},"stat":{"danmaku":57,"view":38197},"season_id":0,"season_type":0},{"aid":889452437,"cid":377605791,"bvid":"BV15P4y1t7k9","duration":70316,"pic":"http:\u002F\u002Fi0.hdslb.com\u002Fbfs\u002Farchive\u002F37c5c6236e084aea1ba16cc3bc7ad80a8b7b27d3.jpg","title":"前端vue电商后台管理项目","owner":{"name":"华子咿呀","mid":75405309},"stat":{"danmaku":536,"view":87125},"season_id":0,"season_type":0},{"aid":670646175,"cid":266427621,"bvid":"BV1ra4y1H7ih","duration":41695,"pic":"http:\u002F\u002Fi0.hdslb.com\u002Fbfs\u002Farchive\u002Febe48450a325b25abb3980e7f83f6d185bb62a5c.png","title":"尚硅谷Vue.JS教程快速入门到项目实战（Vue3\u002FVueJS技术详解）","owner":{"name":"尚硅谷","mid":302417610},"stat":{"danmaku":6119,"view":376896},"season_id":0,"season_type":0},{"aid":671990108,"cid":305398817,"bvid":"BV1TU4y1p7zU","duration":10682,"pic":"http:\u002F\u002Fi0.hdslb.com\u002Fbfs\u002Farchive\u002Ff9ecf4e4d4103cc85cc893e79bea44801c01e8a2.png","title":"【优极限】2021最新完整版Bootstrap教程（最给力的前端框架）bootstrap框架讲解-快速上手,最适合后端开发人员的bootstrap保姆级使用教程","owner":{"name":"爱代码的全栈念小安","mid":292012346},"stat":{"danmaku":1831,"view":159702},"season_id":0,"season_type":0},{"aid":498754477,"cid":394910346,"bvid":"BV1uK411H7on","duration":21490,"pic":"http:\u002F\u002Fi0.hdslb.com\u002Fbfs\u002Farchive\u002F13067b65e1263883b9136a8914d0712f24bf846c.png","title":"尚硅谷Web前端ES6教程，涵盖ES6-ES11","owner":{"name":"尚硅谷","mid":302417610},"stat":{"danmaku":17509,"view":741392},"season_id":0,"season_type":0},{"aid":757479198,"cid":319458951,"bvid":"BV1x64y1S7S7","duration":69285,"pic":"http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Farchive\u002Fb34664466f8a9155cb536e180cd91cf288992c22.jpg","title":"【黑马程序员】前端开发之Vue项目实战_Element-UI【配套源码+笔记】","owner":{"name":"黑马程序员济南中心","mid":501177781},"stat":{"danmaku":8000,"view":397707},"season_id":0,"season_type":0},{"aid":978326244,"cid":488802175,"bvid":"BV1U44y1W77D","duration":117916,"pic":"http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Farchive\u002F58fe503e78168a5048f1112064ad2287bcea5b1d.jpg","title":"从0开始带你手撸一套SpringBoot+Vue后台管理系统（2022年最新版）","owner":{"name":"程序员青戈","mid":402779077},"stat":{"danmaku":2996,"view":140102},"season_id":0,"season_type":0},{"aid":841586543,"cid":219362679,"bvid":"BV1N54y1i7dG","duration":11946,"pic":"http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Farchive\u002Fc079f3117eb58b358eb8621eb683fe2a0eeff276.jpg","title":"【黑马！真的很详细！】CSS3-flex布局(flex布局的单个知识点忘记也可以复习)","owner":{"name":"干脆就叫这名","mid":434000670},"stat":{"danmaku":1451,"view":116316},"season_id":0,"season_type":0},{"aid":92227241,"cid":157472367,"bvid":"BV1h7411N7bg","duration":9967,"pic":"http:\u002F\u002Fi2.hdslb.com\u002Fbfs\u002Farchive\u002F5ab5761ec68225e9823830d892a806891f18bde8.jpg","title":"Vuex从入门到实战","owner":{"name":"Reolove","mid":86602341},"stat":{"danmaku":3963,"view":193437},"season_id":0,"season_type":0},{"aid":838132893,"cid":191591129,"bvid":"BV1og4y1q7M4","duration":29501,"pic":"http:\u002F\u002Fi0.hdslb.com\u002Fbfs\u002Farchive\u002F1958527b597579cbe591ad77567833a68c3bf8ee.jpg","title":"【狂神说Java】Docker最新超详细版教程通俗易懂","owner":{"name":"遇见狂神说","mid":95256449},"stat":{"danmaku":34688,"view":1650960},"season_id":0,"season_type":0},{"aid":76249419,"cid":130424544,"bvid":"BV12J411m7MG","duration":13413,"pic":"http:\u002F\u002Fi0.hdslb.com\u002Fbfs\u002Farchive\u002F6b1f5b49df76f43a4ecbbbca5838590cadec6120.jpg","title":"黑马程序员vue前端基础教程-4个小时带你快速入门vue","owner":{"name":"黑马程序员","mid":37974444},"stat":{"danmaku":22589,"view":1564740},"season_id":0,"season_type":0},{"aid":715103223,"cid":438291234,"bvid":"BV15X4y137Mb","duration":64774,"pic":"http:\u002F\u002Fi2.hdslb.com\u002Fbfs\u002Farchive\u002F9a91e9dde3a686d126e95680a136579ecefdc145.png","title":"这可能是全网最好的VUE项目实战系列课程","owner":{"name":"Mr_顾","mid":506503827},"stat":{"danmaku":13,"view":46637},"season_id":0,"season_type":0},{"aid":967557345,"cid":171773495,"bvid":"BV1vp4y1179g","duration":151433,"pic":"http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Farchive\u002F7edba5350b48935b6084ae3cea8cd6d32d1084da.jpg","title":"【黑马程序员】vue.js从入门到应用","owner":{"name":"彬果锅","mid":385854392},"stat":{"danmaku":1179,"view":101897},"season_id":0,"season_type":0},{"aid":413981413,"cid":214130203,"bvid":"BV1DV411B7v5","duration":781,"pic":"http:\u002F\u002Fi0.hdslb.com\u002Fbfs\u002Farchive\u002Ff1a30e02a9b1932005b97008b02ca5f0c6d3c851.jpg","title":"程序员小姐姐: 前端, 后端, 全栈分别是做什么的? 在美国做码农选哪个方向?","owner":{"name":"SchelleyYuki","mid":2630977},"stat":{"danmaku":2772,"view":727013},"season_id":3756,"season_type":1},{"aid":94944142,"cid":162079260,"bvid":"BV1jE411T7ya","duration":6039,"pic":"http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Farchive\u002F7a9ad63c823aa11fa73d8ed0b60ba3e7c44aa1ab.jpg","title":"JavaScript速成课【油管最火JS教程】","owner":{"name":"鱼C-小甲鱼","mid":314076440},"stat":{"danmaku":1691,"view":128336},"season_id":0,"season_type":0},{"aid":586545575,"cid":293370995,"bvid":"BV1Az4y1U7f5","duration":193789,"pic":"http:\u002F\u002Fi0.hdslb.com\u002Fbfs\u002Farchive\u002Fdb164a38e00e7240abe9f5862615a38b9da6c3bd.jpg","title":"【前端工程师修炼之路-js篇】零基础入门到精通加实战案例，开课吧官方制作最新JavaScript基础全套教程持续更新中","owner":{"name":"开课吧官方号","mid":513744843},"stat":{"danmaku":1334,"view":237547},"season_id":0,"season_type":0},{"aid":89747482,"cid":153282309,"bvid":"BV1F7411776X","duration":143788,"pic":"http:\u002F\u002Fi2.hdslb.com\u002Fbfs\u002Farchive\u002F542acbd268726e091792d552aa7ad0bca6021602.jpg","title":"最新最全HTML5-CSS3教程","owner":{"name":"coderwhy","mid":510324013},"stat":{"danmaku":430,"view":61224},"season_id":0,"season_type":0},{"aid":79312032,"cid":135754279,"bvid":"BV1uJ411k7wy","duration":519317,"pic":"http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Farchive\u002F41ec7b9a6e64264fa38681b8be6fa8379cfa9e3d.jpg","title":"Java基础+进阶","owner":{"name":"黎曼的猜想","mid":14163840},"stat":{"danmaku":171228,"view":3764191},"season_id":0,"season_type":0},{"aid":503068512,"cid":336365748,"bvid":"BV11N411o7wU","duration":236006,"pic":"http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Farchive\u002F18b68b047cb0dca483537e8eee6a4eff0f323400.jpg","title":"2021黑马前端最新进阶班","owner":{"name":"ygy小叮当","mid":122650660},"stat":{"danmaku":1666,"view":112834},"season_id":0,"season_type":0},{"aid":455869298,"cid":197120957,"bvid":"BV1y5411p7DX","duration":2852,"pic":"http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Farchive\u002F9bf5875483ccd0d641b768c0252ac9d6e7bd32e8.png","title":"Vue.js极简教程第三季：Element-UI(入门、精简、不拖拉、2.x基础)——FastAPI辅助教学","owner":{"name":"Blenderyes","mid":396891097},"stat":{"danmaku":392,"view":93458},"season_id":0,"season_type":0},{"aid":371155356,"cid":207302407,"bvid":"BV1ZZ4y1H7rU","duration":1075,"pic":"http:\u002F\u002Fi2.hdslb.com\u002Fbfs\u002Farchive\u002Fd74e2f5aa5442501a15c1e5611a334f64265926f.jpg","title":"【干货】前端学习路线分享！写了个网站帮助你学习前端！","owner":{"name":"objtube的卢克儿","mid":5104803},"stat":{"danmaku":714,"view":163484},"season_id":0,"season_type":0},{"aid":75785188,"cid":129644674,"bvid":"BV1KJ411U7ML","duration":139248,"pic":"http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Farchive\u002F16e8e0ceb475cb97ad65064d98e95740f1e98c0d.jpg","title":"Vue全家桶从入门到实战","owner":{"name":"哔哩虾仁儿","mid":192197320},"stat":{"danmaku":2449,"view":175722},"season_id":0,"season_type":0},{"aid":712020469,"cid":234725733,"bvid":"BV1wD4y1o7AS","duration":81906,"pic":"http:\u002F\u002Fi0.hdslb.com\u002Fbfs\u002Farchive\u002F9974b552950679b49c0e73d10bd55c29fcec35b9.png","title":"花了2万多买的Python教程全套，现在分享给大家，入门到精通(Python全栈开发教程)","owner":{"name":"Python_子木","mid":612593877},"stat":{"danmaku":175375,"view":13096238},"season_id":0,"season_type":0},{"aid":584583518,"cid":234573123,"bvid":"BV1fz4y1o7t3","duration":11535,"pic":"http:\u002F\u002Fi0.hdslb.com\u002Fbfs\u002Farchive\u002F46eb01df814210631317b83109aa975d3f4573dd.png","title":"手把手教Vue.js环境搭建以及配置在到实战开发前端项目App购物商城详细讲解（HTML+CSS+JS+VUE）","owner":{"name":"上上校IT","mid":366054567},"stat":{"danmaku":16,"view":17278},"season_id":0,"season_type":0},{"aid":543720316,"cid":282596278,"bvid":"BV1Pv4y1f7zJ","duration":61300,"pic":"http:\u002F\u002Fi0.hdslb.com\u002Fbfs\u002Farchive\u002F4483112da0a367a65e3ba76228695f50eba37412.png","title":"【优极限】2021前端VUE框架-最新最全Vue、Vuejs教程，从入门到精通，实战课程前端基础必会教程-带你快速入门vue-建议收藏","owner":{"name":"码歌教育","mid":1779402209},"stat":{"danmaku":22,"view":13466},"season_id":0,"season_type":0},{"aid":626444503,"cid":215493439,"bvid":"BV1gt4y1X78g","duration":1424,"pic":"http:\u002F\u002Fi2.hdslb.com\u002Fbfs\u002Farchive\u002F28e6e50436ac50fe6f55674e653bb9915a7de8c5.png","title":"半小时学会 Vuex 数据共享","owner":{"name":"前端小码农","mid":586193566},"stat":{"danmaku":318,"view":37116},"season_id":0,"season_type":0},{"aid":416885480,"cid":305443436,"bvid":"BV1NV411v7qo","duration":51664,"pic":"http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Farchive\u002Fe7753bbcdf9385313024fd4d5677366228dbac92.png","title":"太不容易了，竟然让我拿到尤雨溪亲授的VUE全套教程了（2021最新web前端vue全套教程）小白必入","owner":{"name":"不秃顶的码农丶","mid":1275478918},"stat":{"danmaku":67,"view":53460},"season_id":0,"season_type":0}],"spec":{"type":1,"card":{"id":5272,"type":1,"title":"保真前端知识，技术大佬亲传的【降维开发】思路","desc":"系统入门到实战","cover":"http:\u002F\u002Fi0.hdslb.com\u002Fbfs\u002Ffeed-admin\u002F27be9cbc8de68388612913cf84f976c1dbbf2c54.jpg","re_type":1,"re_value":"https:\u002F\u002Fwww.bilibili.com\u002Fcheese\u002Fplay\u002Fss373?csource=UGCplayer_relevantclass","person":"","ctime":0,"mtime":0}},"isClient":false,"error":{},"player":"","playurl":{},"user":{},"cidMap":{"89760569":{"aid":89760569,"bvid":"BV15741177Eh","cids":{"1":259127614}},"BV15741177Eh":{"aid":89760569,"bvid":"BV15741177Eh","cids":{"1":259127614}}},"isRecAutoPlay":true,"autoPlayNextVideo":null,"elecFullInfo":{"code":0,"data":{"pic":"http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Farchive\u002Fb1b39b6bb046f05940bc3232ede968870b06b10a.jpg","show":true}},"adData":{"2624":[{"id":0,"contract_id":"","res_id":0,"asg_id":0,"pos_num":1,"name":"","pic":"https:\u002F\u002Fstatic.hdslb.com\u002Fimages\u002Ftransparent.gif","litpic":"","url":"","style":0,"agency":"","label":"","intro":"","creative_type":0,"request_id":"1648916863047q172a25a191a56q76","src_id":2626,"area":1,"is_ad_loc":true,"ad_cb":"","title":"","server_type":0,"cm_mark":0,"stime":0,"mid":"","activity_type":0,"epid":0,"season":null,"room":null,"sub_title":"","ad_desc":"","adver_name":"","null_frame":true,"pic_main_color":"","card_type":0,"business_mark":null,"inline":{"inline_use_same":0,"inline_type":0,"inline_url":"","inline_barrage_switch":0},"operater":""},{"id":0,"contract_id":"","res_id":0,"asg_id":0,"pos_num":2,"name":"","pic":"https:\u002F\u002Fstatic.hdslb.com\u002Fimages\u002Ftransparent.gif","litpic":"","url":"","style":0,"agency":"","label":"","intro":"","creative_type":0,"request_id":"1648916863047q172a25a191a56q76","src_id":2627,"area":1,"is_ad_loc":true,"ad_cb":"","title":"","server_type":0,"cm_mark":0,"stime":0,"mid":"","activity_type":0,"epid":0,"season":null,"room":null,"sub_title":"","ad_desc":"","adver_name":"","null_frame":true,"pic_main_color":"","card_type":0,"business_mark":null,"inline":{"inline_use_same":0,"inline_type":0,"inline_url":"","inline_barrage_switch":0},"operater":""},{"id":0,"contract_id":"","res_id":0,"asg_id":0,"pos_num":3,"name":"","pic":"https:\u002F\u002Fstatic.hdslb.com\u002Fimages\u002Ftransparent.gif","litpic":"","url":"","style":0,"agency":"","label":"","intro":"","creative_type":0,"request_id":"1648916863047q172a25a191a56q76","src_id":2628,"area":1,"is_ad_loc":true,"ad_cb":"","title":"","server_type":0,"cm_mark":0,"stime":0,"mid":"","activity_type":0,"epid":0,"season":null,"room":null,"sub_title":"","ad_desc":"","adver_name":"","null_frame":true,"pic_main_color":"","card_type":0,"business_mark":null,"inline":{"inline_use_same":0,"inline_type":0,"inline_url":"","inline_barrage_switch":0},"operater":""}],"2625":[{"id":0,"contract_id":"","res_id":0,"asg_id":0,"pos_num":1,"name":"","pic":"https:\u002F\u002Fstatic.hdslb.com\u002Fimages\u002Ftransparent.gif","litpic":"","url":"","style":0,"agency":"","label":"","intro":"","creative_type":0,"request_id":"1648916863047q172a25a191a56q76","src_id":2629,"area":1,"is_ad_loc":true,"ad_cb":"","title":"","server_type":0,"cm_mark":0,"stime":0,"mid":"","activity_type":0,"epid":0,"season":null,"room":null,"sub_title":"","ad_desc":"","adver_name":"","null_frame":true,"pic_main_color":"","card_type":0,"business_mark":null,"inline":{"inline_use_same":0,"inline_type":0,"inline_url":"","inline_barrage_switch":0},"operater":""}],"3038":[{"id":944305,"contract_id":"","res_id":3038,"asg_id":967356,"pos_num":1,"name":"夏天见面穿好看的秘诀是...","pic":"http:\u002F\u002Fi0.hdslb.com\u002Fbfs\u002Ffeed-admin\u002F34a68bc05cbaeb5704546dfead16265b15f3effa.jpg","litpic":"","url":"https:\u002F\u002Fwww.bilibili.com\u002Fblackboard\u002Factivity-jZKtpGavuS.html","style":0,"agency":"","label":"","intro":"","creative_type":0,"request_id":"1648916863","src_id":3039,"area":1,"is_ad_loc":false,"ad_cb":"","title":"","server_type":0,"cm_mark":0,"stime":1648868400,"mid":"","activity_type":0,"epid":0,"season":null,"room":null,"sub_title":"","ad_desc":"","adver_name":"","null_frame":false,"pic_main_color":"","card_type":0,"business_mark":null,"inline":{"inline_use_same":1,"inline_type":0,"inline_url":"","inline_barrage_switch":1},"operater":"manager_banner_10948"}],"4330":[{"id":0,"contract_id":"","res_id":0,"asg_id":0,"pos_num":1,"name":"每天建模半小时，在家接单赚钱养活自己！！！","pic":"https:\u002F\u002Fi0.hdslb.com\u002Fbfs\u002Fsycp\u002Fcreative_img\u002F202108\u002Fc490ec0a7ff8fb30669aa4b2ba2be084.jpg","litpic":"","url":"https:\u002F\u002Fpage.fengniaohd.com\u002Fbili\u002Fjm26_2\u002F?track_id=pbaes.7w2pybBjbGjQ6Kzi3VNL2mSS8cjzBCyBvObL__mVRH2KZtUL63aSnesWZBO5zsLy2Gbc3TXZgp2fkebQ8OKtyo_zYmIpkowFkfWa7U518YI","style":0,"is_ad":true,"agency":"","label":"","intro":"","creative_type":0,"request_id":"1648916863047q172a25a191a56q76","creative_id":94312193,"src_id":4331,"area":1,"is_ad_loc":true,"ad_cb":"CNzHSRDBuPkBGIGu\u002FCwgfSgBMJe1FzjrIUIeMTY0ODkxNjg2MzA0N3ExNzJhMjVhMTkxYTU2cTc2SMew6tj+L1IG5oiQ6YO9Wgblm5vlt51iBuS4reWbvWhkcAB4gICAgPAYgAEDiAEAkgEPMTAxLjIwNi4xNjYuMjUwmgEAoAF9qAEBsgEgP+aUtmZbxBoEAOftgNt7NafFwOwRQGptR8qaFiV7C9m6AaMBaHR0cHM6Ly9wYWdlLmZlbmduaWFvaGQuY29tL2JpbGkvam0yNl8yLz90cmFja19pZD1wYmFlcy43dzJweWJCamJHalE2S3ppM1ZOTDJtU1M4Y2p6QkN5QnZPYkxfX21WUkgyS1p0VUw2M2FTbmVzV1pCTzV6c0x5MkdiYzNUWFpncDJma2ViUThPS3R5b196WW1JcGtvd0ZrZldhN1U1MThZScIBATHSAQDYAccB4AGAlOvcA+gBnJPr3APwAbnG5ir4AX2AAgKIArjhnRGSAiUzOTI2MjUwXzE2NDg4MDYwMjIsNDA4Njg0OV8xNjQ4OTE2NzA0mAKuv62EAaACy\u002FcOqALe9AiwAmu4AgDAAvDIIcgCT+oCAPgCtyaIAwGSAwCoAwCwAwC4AwDCAwxCVjE1NzQxMTc3RWjIA5+NBtIDrAF7IjEiOiI5NDMxMjE5MyIsIjEyIjoiNDMzMSIsIjEzIjoiMjkyODM2IiwiMTQiOiIyNzUiLCIxNSI6IjMwNiIsIjE2IjoiMjkyODM2XzQ5MTkiLCIyIjoiMzgzNjM5IiwiMyI6IjIzMTkiLCI0IjoiMzgiLCI1IjoiMzI3IiwiNiI6IjIzMTlfNDkxOSIsIjciOiI4OTc2MDU2OSIsIjgiOiIzNjEzOTE5MiJ94AMC6AMC8AMA+gMDdWdjggQsdXBfbWlkOjM2MTM5MTkyLGF2X2lkOjg5NzYwNTY5LGJ2X2lkOixjX2lkOjCIBH2QBACgBCKqBAcI9pm2ARAEqgQHCJmawQEQAbgECsAEBNAEANgEAOIE2QJ7InBOYW1lIjoiYWxsIiwicElkIjo1NiwicHNJZCI6MjIzNSwiaW5mbyI6WzEsMSwxLDAsMCwzLDAsMiw1LDEsMCwxLDEsMSwxLDAsMCwwLDEsMSwxLDEsMSwxLDEsMCwwLDIsMCwxLDEsMSwwLDEsMCwwLDEsMSwyLDEsMCwxLDEsMSwxLDEsMCwxLDIsMCwwLDAsMSwxLDEsMSwwLDEsMCwwLDAsMCwxLDIsMSwwLDEsMCwxLDEsMSwwLDAsMSwwLDEsMSwxLDAsMSwwLDAsMCwxLDAsMiwwLDAsMSwxLDEsMCwwLDAsMiwxLDAsMCwxLDEsMCwwLDEsMCwwLDAsMCwxLDAsMSwwLDEsMCwxLDEsMCwxLDIsMSwwLDQsMCwwLDAsMCwwLDUsMSwxLDAsMCwwLDAsMCwyLDEsMCwwLDIsMCwwLDEsMSwxLDAsMCwwLDAsMCwwXX3oBADwBAD6BE97ImJpel90eXBlIjo0LCJjcGEiOiJ7XCJjcGFfbGV2ZWxcIjoyLFwiY3BhX3NldFwiOjkwMDB9IiwiZXhwbG9yZV9yYXRpbyI6IjEwMCJ9gAUAkAXAApAFwgKQBUOQBcMCkAWEAZAFxQKQBYYBkAVIkAWIAZAFyAGQBUmQBYkBkAXMApAFjQKQBY4CkAXQAZAF0QGQBdMCkAXUAZAF1gKQBdcBkAXXApAF2AGQBZgCkAXYApAF2QKQBZoCkAXaApAF3AKQBZ0CkAVekAWeApAFYZAFYpAFKJAFrAGQBXGQBbEBkAXxAZAFMpAFcpAFM5AFswGQBbMCkAW0AZAFN5AFfZAFfg==","title":"每天建模半小时，在家接单赚钱养活自己！！！","server_type":1,"cm_mark":1,"stime":0,"mid":"","activity_type":0,"epid":0,"season":null,"room":null,"sub_title":"","ad_desc":"零基础学游戏建模","adver_name":"衡阳教育","null_frame":false,"pic_main_color":"","card_type":0,"business_mark":{"bg_border_color":"","bg_color":"","bg_color_night":"","border_color":"","border_color_night":"","img_height":48,"img_url":"https:\u002F\u002Fi0.hdslb.com\u002Fbfs\u002Fsycp\u002Fmng\u002F202111\u002F47b7b814a3dce30769bf0fba4252f281.png","img_width":96,"text":"","text_color":"","text_color_night":"","type":4},"inline":{"inline_use_same":0,"inline_type":0,"inline_url":"","inline_barrage_switch":0},"operater":""}]},"adsControl":{"has_danmu":0},"bofqiParams":{},"isBack":false,"isForbidNote":true,"seasonType":0,"noRecommendLive":false,"noRecommendActivity":false,"insertScripts":["\u002F\u002Fs1.hdslb.com\u002Fbfs\u002Fstatic\u002Fjinkela\u002Fvideo\u002Fstardust-video.c7dd30fc1f27644d6f436247c40a046d69e9f80f.js"],"pageAbTest":"v_old_home","buvidAbTest":"v_buvid_13","videoGoOldVersion":null,"isExp":false,"isInExp":false,"isNewHome":false};(function(){var s;(s=document.currentScript||document.scripts[document.scripts.length-1]).parentNode.removeChild(s);}());
+  </script>
+  <link href="//s1.hdslb.com/bfs/static/jinkela/video/css/stardust-video.0.c7dd30fc1f27644d6f436247c40a046d69e9f80f.css" rel="stylesheet"/>
+  <script type="text/javascript">
+   function getIEVersion(){var rv=99;if(navigator.appName=="Microsoft Internet Explorer"){var ua=navigator.userAgent;var re=new RegExp("MSIE ([0-9]{1,}[.0-9]{0,})");if(re.exec(ua)!=null){rv=parseFloat(RegExp.$1)}}return rv}
+    if (getIEVersion() <= 9) {
+      document.body.innerHTML = "<div class='ie-fix'><div class='title'>为了保障你的账号安全和最佳预览体验，播放页已不支持IE9及以下IE版本浏览器访问，建议你使用Chrome等高级浏览器或升级到IE最新版本浏览器。</div></div>"
+    }
+    function getCookie(name) {
+      var reg = new RegExp("(^| )" + name + "=([^;]*)(;|$)")
+      var r = document.cookie.match(reg)
+      return r ? unescape(r[2]) : null
+    }
+    window.hasBlackSide = Boolean(parseInt(getCookie('blackside_state')))
+
+    function setSize() {
+      // ssr
+      if (window.__INITIAL_STATE__) {
+        var version = window.__INITIAL_STATE__.pageVersion
+        if (version === 'v_new_home_4') {
+          part1SetSize(false)
+        } else {
+          // version: old
+          originSetSize()
+        }
+        return
+      }
+      // csr
+      originSetSize()
+    }
+    function checkVersion() {
+      let version
+
+      if (window.__INITIAL_STATE__) {
+        version = window.__INITIAL_STATE__.pageVersion
+        if (version === 'v_new_home_4') {
+          return 1
+        } else {
+          return 0
+        }
+      }
+
+      return 0
+    }
+
+    function constructStyleString(selector, style) {
+      var res = selector + ' {'
+      var ks = Object.keys(style)
+      for (var i = 0; i < ks.length; i++) {
+        res += ks[i] + ': ' + style[ks[i]] + ';'
+      }
+      return res + '}\n'
+    }
+
+    function part1SetSize(biggerMode) {
+      var isWide = window.isWide
+      var maxw = 1694
+      var minw = 668
+      // 右侧宽度
+      var h = window.innerHeight;
+      var w = Math.max(((document.body && document.body.clientWidth) || window.innerWidth), 1100)
+      var rw = biggerMode ? (innerWidth > 1680 ? 360 : 320) : (innerWidth > 1680 ? 411 : 350)
+      // 根据屏幕高度计算出来的左侧视频的宽度
+
+      var w1 = parseInt((h - (innerWidth > 1690 ? 300 : 290)) * 16 / 9),
+
+        // 根据屏幕宽度计算出来的左侧视频的宽度
+        w2 = w - 56 * 2 - rw,
+        min = w1 > w2 ? w2 : w1;
+        
+      if (min < minw) { min = minw }
+      if (min > maxw) { min = maxw }
+
+      var vw = min + rw, vh;
+
+      if(window.isWide) {
+        vw = vw - 125
+        min = min - 100
+      }
+
+      if (window.hasBlackSide && !window.isWide) {
+        // 测试通过 - 90
+        vh = Math.round(((min - 14) + (isWide ? rw : 0)) * (9 / 16) + (innerWidth > 1680 ? 56 : 46)) + 96
+      } else {
+        // 宽屏
+        vh = Math.round((min + (isWide ? rw : 0)) * (9 / 16)) + (innerWidth > 1680 ? 56 : 46)
+      }
+
+      const leftContainerW = vw - rw
+      let leftObserveContentW
+      if (leftContainerW <= 924) {
+        leftObserveContentW = leftContainerW
+      } else if (leftContainerW <= 1232) {
+        leftObserveContentW = 924
+      } else {
+        leftObserveContentW = leftContainerW * 0.75
+      }
+
+      var styleString = constructStyleString('.video-container-v1', {
+        width: 'auto',
+        // 写死padding，不然在ipad上会进行抖动
+        padding: '0 10px'
+      })
+        + constructStyleString('.left-container', {
+          width: (vw - rw) + 'px'
+        })
+        + constructStyleString('.left-container-under-player', {
+          // width: leftObserveContentW + 'px'
+          width: '100%'
+        })
+        + constructStyleString('#bilibili-player', {
+          width: vw - (isWide ? -30 : rw) + 'px',
+          height: vh + 'px',
+          position: isWide ? 'relative' : 'static',
+        })
+        + constructStyleString('#danmukuBox', {
+          'margin-top': isWide ? vh + 28 + 'px' : '0'
+        })
+        + constructStyleString('#playerWrap', {
+          height: vh + 'px'
+        })
+      setSizeStyle.innerHTML = styleString
+    }
+
+    function originSetSize() {
+      var isWide = window.isWide
+      var maxw = 1630
+      var minw = 638
+      // 右侧宽度
+      var rw = 350
+      var h = window.innerHeight
+          w = window.innerWidth
+          // 根据屏幕高度计算出来的左侧视频的宽度
+          w1 = parseInt((0.743 * h - 108.7) * 16 / 9),
+          // 根据屏幕宽度计算出来的左侧视频的宽度
+          w2 = w - 76 * 2 - rw,
+          min = w1 > w2 ? w2 : w1;
+      if (min < minw) { min = minw }
+      if (min > maxw) { min = maxw }
+      var vw = min + rw, vh;
+      if (window.hasBlackSide && !window.isWide) {
+        vh = Math.round(((min - 14) + (isWide ? rw : 0)) * (9 / 16) + 46) + 96
+      } else {
+        vh = Math.round((min + (isWide ? rw : 0)) * (9 / 16)) + 46
+      }
+      var styleString = constructStyleString('.v-wrap', {
+        width: vw + 'px',
+        // 写死padding，不然在ipad上会进行抖动
+        padding: '0 68px'
+      })
+        + constructStyleString('.l-con', {
+          width: (vw - rw) + 'px'
+        })
+        + constructStyleString('#bilibili-player', {
+          width: vw - (isWide ? 0 : rw) + 'px',
+          height: vh + 'px',
+          position: isWide ? 'relative' : 'static'
+        })
+        + constructStyleString('#danmukuBox', {
+          'margin-top': isWide ? vh + 28 + 'px' : '0'
+        })
+        + constructStyleString('#playerWrap', {
+          height: isWide ? vh - 0 + 'px' : 'auto'
+        })
+      setSizeStyle.innerHTML = styleString
+    }
+
+    setSize()
+    window.addEventListener('resize', function () {
+      setSize()
+    })
+
+    //记忆宽屏bugfix
+    window.PlayerAgent = {
+      player_widewin: function() {
+        if (checkVersion() === 1) {
+          window.scrollTo(0, 60) // 方案二/方案三切换宽屏模式时，不需要滚动
+        }
+        window.isWide = true
+        setSize()
+      },
+      // 窄屏
+      player_fullwin: function (boo) {
+        window.scrollTo(0, 0)
+        window.isWide = false
+        setSize()
+      },
+      toggleBlackSide: function (v) {
+        window.hasBlackSide = v
+        setSize()
+      }
+    }
+  </script>
+  <link href="//s1.hdslb.com/bfs/static/jinkela/long/font/medium.css" media="print" onload='this.media="all"' rel="stylesheet"/>
+  <link href="//s1.hdslb.com/bfs/static/jinkela/long/font/regular.css" media="print" onload='this.media="all"' rel="stylesheet"/>
+ </head>
+ <body>
+  <script>
+   window.setSizeStyle=document.getElementById("setSizeStyle")
+  </script>
+  <div id="video-page-app">
+  </div>
+  <!-- built files will be auto injected -->
+  <div data-server-rendered="true" id="app">
+   <div class="van-dialog__wrapper" style="display:none;">
+    <div class="van-dialog protocal-dialog" style="width:320px;margin-top:15vh;">
+     <div class="van-dialog__header">
+      <span class="van-dialog__title">
+       确认公开发布笔记？
+      </span>
+      <button aria-label="Close" class="van-dialog__headerbtn" type="button">
+       <i class="van-icon-close van-dialog__close">
+       </i>
+      </button>
+     </div>
+     <!-- -->
+     <!-- -->
+    </div>
+   </div>
+   <!-- -->
+   <!-- -->
+   <div class="note-list note-list" data-v-7ff8c16c="" style="display:none;height:556px;left:100px;">
+    <div class="note-list-header" data-v-7ff8c16c="">
+     <span data-v-7ff8c16c="">
+      笔记列表
+     </span>
+     <i class="note-list-close" data-v-7ff8c16c="">
+     </i>
+    </div>
+    <div class="note-list-container" data-v-7ff8c16c="">
+    </div>
+    <div class="note-list-footer" data-v-7ff8c16c="">
+     <div class="note-list-btn" data-v-7ff8c16c="">
+      记笔记
+     </div>
+    </div>
+   </div>
+   <div data-v-73192b08="" id="biliMainHeader" style="height:56px;">
+    <div class="mini-header m-header mini-type" data-v-73192b08="">
+     <div class="mini-header__content mini-header--login" data-v-73192b08="">
+      <div class="nav-link" data-v-73192b08="">
+       <ul class="nav-link-ul mini" data-v-73192b08="">
+        <li class="nav-link-item" data-v-73192b08="">
+         <span data-v-73192b08="">
+          <a class="link van-popover__reference" data-v-73192b08="" href="//www.bilibili.com" tabindex="0">
+           <svg aria-hidden="true" class="navbar_logo" data-v-73192b08="" viewbox="0 0 2240 1024">
+            <path d="M2079.810048 913.566175c-10.01309 0-18.554608 0.799768-26.936172-0.159954-16.987063-1.951433-33.974126-1.567544-50.99318-2.079395-10.972811-0.287916-10.652904-0.287916-11.580634-10.90883-2.71921-32.406582-5.694345-64.781173-8.605499-97.155764-2.527266-28.439735-4.926568-56.91146-7.70976-85.319204-2.527266-26.040432-5.566382-52.016883-8.317583-78.025324-2.623238-24.440897-5.054531-48.913784-7.77374-73.322691a12681.114551 12681.114551 0 0 0-10.684895-92.133223c-3.295042-27.128116-6.558094-54.320213-10.205034-81.416339a20559.272961 20559.272961 0 0 0-17.530905-125.979387c-6.398141-44.723002-14.075909-89.22207-22.105576-133.657156-1.439582-7.965685-1.247637-8.253601 6.36615-9.533229 31.670796-5.406429 63.501545-10.01309 95.716183-9.309295 3.486987 0.095972 7.005964 0.159954 10.460959 0.607823 5.662354 0.703795 8.605499 3.454996 8.925406 10.045081 1.119675 22.969325 2.71921 45.938649 4.414717 68.875983 2.71921 37.589076 5.662354 75.178151 8.477537 112.735236 1.791479 24.184971 3.327033 48.305961 5.150503 72.426951 2.911154 38.772732 5.982261 77.513473 8.925406 116.286205 1.791479 23.705111 3.359024 47.474203 5.182494 71.179313 2.783191 34.805885 5.822308 69.579778 8.637489 104.353672 1.791479 22.137566 3.391014 44.307123 5.278466 66.44469 2.783191 32.79047 5.790317 65.580941 8.63749 98.371411 2.143377 25.592562 4.09481 51.249106 6.270178 77.673426zM853.670395 114.918282c4.638652 0 11.644616-0.511851 18.554607 0.127963 8.797443 0.799768 10.49295 3.071107 11.036793 11.900541 2.527266 40.372267 4.894578 80.776524 7.581796 121.180782 2.943145 43.571337 6.174206 87.078693 9.405267 130.586048 2.975135 39.956388 5.950271 79.912775 9.149341 119.869163 3.486987 43.891244 7.357862 87.718507 10.876839 131.609751 2.655228 33.622229 4.926568 67.244457 7.677768 100.898677 2.623238 31.222926 5.694345 62.38187 8.509527 93.572805 2.399303 26.8402 4.830596 53.71239 7.165918 80.58458 0.735786 8.509527 0.127963 9.053369-9.053369 8.829434-24.025018-0.575833-47.922073-3.391014-71.947091-2.71921-5.502401 0.159954-7.101936-2.367312-8.029666-7.581796-1.983424-11.356699-1.663517-22.905343-2.879163-34.390006-3.295042-30.359177-5.182494-60.846317-7.965685-91.269474-2.495275-27.639967-5.502401-55.215953-8.349574-82.82393-2.527266-25.240664-5.02254-50.481329-7.709759-75.753984-2.687219-24.792795-5.534392-49.61758-8.349573-74.442365-2.591247-22.841362-5.118512-45.682723-7.869713-68.524085-4.062819-33.462275-8.093648-66.92455-12.508365-100.322844-4.062819-30.647093-8.66948-61.198214-12.988225-91.813317-5.886289-41.587914-12.508365-83.079855-19.834236-124.411842a1393.96288 1393.96288 0 0 0-5.310457-28.023856c-0.959721-4.702633-0.095972-7.421843 5.278466-8.157629 14.139891-1.887451 28.24779-4.830596 42.451663-6.206196 14.203872-1.311619 28.407744-3.966847 45.106891-2.71921z m1006.075609 403.33878c27.064134 0 27.703949 0.191944 32.054684 24.536869 5.342447 30.03927 9.08536 60.334465 12.636328 90.62966 3.742912 32.278619 7.517815 64.557238 10.972811 96.867848 2.783191 26.008441 5.118512 52.080864 7.74175 78.089305 2.7512 27.256079 5.662354 54.416185 8.509527 81.640274 1.567544 15.387528 3.039117 30.775056 4.798605 46.130593 0.511851 4.446708-0.831758 6.81402-5.214485 7.325871-9.245313 1.055693-18.426645 2.27134-27.639967 3.263052-16.891091 1.82347-33.814173 3.614949-50.737254 5.182493-8.733462 0.799768-9.309294 0.319907-10.940821-8.125638-14.843686-76.617733-29.719363-153.171485-44.435086-229.821208-9.789155-50.961189-19.322384-101.95437-28.919595-152.915559a805.525894 805.525894 0 0 1-3.582959-21.081873c-0.639814-4.030829 0.44787-6.622075 5.022541-7.70976 30.48714-7.133927 61.294186-12.636328 89.733921-14.011927z m-1137.077537 0c28.951586 0 28.823623 0.095972 33.302322 26.360339 6.909992 40.660183 11.804569 81.544301 16.187295 122.556382 4.286754 39.796434 8.957397 79.560878 13.148179 119.357311 2.847173 27.224088 5.086522 54.512157 7.74175 81.704255 1.887451 19.354375 4.126801 38.644769 6.174206 57.967153 0.255926 2.367312 0.383888 4.734624 0.543842 7.133927 0.415879 9.469248 0 10.237025-9.117351 11.164755-18.074747 1.887451-36.181485 3.454996-54.256232 5.246476-6.558094 0.639814-13.084197 1.599535-19.57831 2.239349-8.63749 0.799768-8.925406 0.767777-10.620913-7.965685-6.078234-30.679084-11.964523-61.422149-17.914793-92.101233-14.267853-73.898523-28.69566-147.733065-42.867542-221.631589-5.662354-29.559409-10.524941-59.246781-16.091323-88.838181-1.023702-5.406429-0.255926-7.933694 5.342447-9.245313 30.199223-7.037955 60.590391-12.540355 88.006423-13.947946z m382.128944 309.861946v124.027954c0 1.183656-0.127963 2.399303 0.03199 3.582959 0.607823 6.014252-1.599535 8.66948-7.805731 8.413555-8.157629-0.351898-16.251277-0.127963-24.408906 0.063981-17.019054 0.319907-34.070098-0.351898-51.057162 1.599535-9.405267 1.087684-9.213322 0.511851-10.141052-9.405266-2.783191-31.222926-5.822308-62.413861-8.669481-93.636787-2.623238-28.823623-4.99055-57.711228-7.677768-86.534851-2.71921-29.655381-5.758326-59.214791-8.509527-88.838181-1.887451-19.770254-3.550968-39.508518-5.214485-59.278772-2.175368-25.720525-4.190782-51.409059-6.462122-77.129585-0.959721-10.844848-0.159954-12.380402 10.588923-13.500076a531.877423 531.877423 0 0 1 83.527724-2.591247c6.941982 0.383888 13.851974 1.727498 20.570022 3.359024 8.477536 2.015414 9.405267 3.263052 9.853137 12.124476 0.92773 17.850812 1.855461 35.701624 2.335321 53.584427 0.543842 19.866226 0.095972 39.764443 0.831758 59.63067 1.855461 54.800074 1.567544 109.664129 2.207359 164.528184z m1134.806197 5.630364v117.437869c0 1.983424-0.063981 3.966847 0.03199 5.982262 0.415879 5.150503-1.983424 6.973973-6.878001 6.941982-12.028504-0.095972-24.025018 0-36.021531 0.159954-13.564058 0.127963-27.096125 0.063981-40.628192 1.535553-8.925406 1.023702-8.989387 0.351898-9.789155-8.509527-3.678931-40.660183-7.549806-81.320366-11.260728-122.04453-3.391014-37.525094-6.526103-75.082179-9.981099-112.639265-3.550968-38.740741-7.421843-77.38551-10.90883-116.09426-1.727498-19.386366-3.16708-38.772732-4.606661-58.159097-0.575833-8.445546 0.351898-9.949109 9.885127-10.716886 16.571184-1.311619 33.078387-3.550968 49.777534-3.263051 16.635165 0.319907 33.302322-0.607823 49.841515 2.559256 14.011928 2.687219 14.715723 3.486987 15.547481 18.458635 2.399303 44.051198 1.663517 88.230358 3.231061 132.281556 1.599535 46.89837 0.479861 93.79674 1.759489 146.069549zM1831.498213 305.135c9.789155 0.575833 17.498914 0.095972 25.176683 1.791479 4.894578 1.119675 7.357862 3.327033 7.837723 8.573509 2.303331 25.240664 4.798605 50.51332 7.32587 75.785975 2.015414 20.50604 4.158791 41.012081 6.238188 61.518121l0.191944 1.183656c1.663517 12.924244 1.279628 13.276142-11.292718 13.979937-11.196746 0.607823-22.361501 1.599535-33.558247 2.27134-7.357862 0.44787-9.693183 1.695507-10.90883-9.021378-4.190782-37.813011-9.053369-75.530049-13.692021-113.311069a1185.0316 1185.0316 0 0 0-4.286754-31.798759c-0.92773-5.982261 1.407591-9.277304 7.005964-9.757164 7.357862-0.671805 14.715723-0.863749 19.962198-1.215647z m-1133.398606 0.159954c7.549806 0.415879 15.323547-0.159954 22.937334 1.599535 4.350736 0.991712 6.558094 2.815182 6.973973 7.773741 0.92773 11.83656 2.7512 23.641129 3.870875 35.477689 3.550968 36.309448 6.909992 72.650886 10.237025 108.992324 0.703795 7.901704 0.543842 8.061657-6.84601 8.605499-13.116188 0.959721-26.264367 1.919442-39.412546 2.463284-7.645778 0.351898-8.605499-0.575833-9.56522-8.381564-3.327033-26.744227-6.462122-53.520446-9.661192-80.296664-2.591247-22.073585-4.766615-44.14717-7.901704-66.156773-0.863749-6.078234 1.119675-7.74175 5.982262-8.733462 7.709759-1.567544 15.451509-1.055693 23.385203-1.343609z m399.147998 100.002936c0 23.001315 0.063981 45.97064-0.031991 69.003946 0 10.332997-0.127963 10.396978-10.396978 10.269016a324.289753 324.289753 0 0 1-36.981252-1.919443c-7.933694-0.991712-8.093648-0.735786-8.317583-9.149341-0.799768-28.119828-1.631526-56.239655-2.207359-84.359483-0.415879-19.034468-0.639814-38.004955-1.791479-57.039422-0.607823-9.821146-0.063981-9.917118 9.373276-10.045081 13.915956-0.159954 27.799921 0.479861 41.619904 2.591247 8.317583 1.279628 8.701471 1.279628 8.733462 10.49295 0.063981 23.385204 0.063981 46.770407 0.063981 70.187602h-0.063981z m1135.38203 0.607824c0 23.033306 0.063981 46.034621-0.031991 69.035936 0 9.661192-0.159954 9.725174-9.853137 9.661192a505.32514 505.32514 0 0 1-38.132917-1.791479c-6.302168-0.479861-8.157629-3.135089-7.74175-8.861425 0.063981-0.799768 0-1.599535 0-2.399302-0.959721-44.403095-1.919442-88.7742-2.815182-133.177296-0.031991-2.367312-0.159954-4.734624-0.063982-7.133926 0.127963-8.957397 0.159954-9.181332 9.149341-9.117351 12.380402 0.063981 24.664832 0.703795 37.013243 1.919442 15.067621 1.503563 12.412393 3.359024 12.476375 15.259566 0.063981 22.169557 0.031991 44.403095 0 66.604643z m-1565.593 54.000306c0.287916 12.636328 0.287916 12.604337-11.804569 15.547481-8.221611 2.015414-16.443221 4.222773-24.728813 6.046243-7.069945 1.599535-8.317583 0.703795-9.53323-6.238187-8.445546-47.090314-16.8591-94.212619-25.240664-141.334924-1.695507-9.757164-1.247637-10.364988 8.349573-12.060495 11.804569-2.079396 23.577148-4.126801 35.381717-5.950271 7.517815-1.183656 8.477536-0.767777 9.9811 7.517815 2.975135 16.731138 5.790317 33.526256 7.997675 50.385357 3.423005 26.680246 6.238187 53.456464 9.309295 80.168701 0.255926 1.951433 0.191944 3.966847 0.287916 5.91828z m1064.138735-136.696273c15.451509-2.527266 31.030982-5.086522 46.610454-7.549806 5.598373-0.863749 7.29388 2.655228 8.029666 7.645778 2.655228 18.426645 5.982261 36.725327 8.157629 55.183962 3.19907 26.744227 7.581797 53.360492 8.413555 80.328655 0.063981 2.7512 0.031991 5.566382 0.095972 8.317583 0.159954 4.286754-1.983424 6.494113-5.950271 7.421843-10.556932 2.367312-21.113864 4.734624-31.638805 7.261889-5.054531 1.215647-6.750038-0.92773-7.581796-5.854298-3.16708-18.746552-6.81402-37.397131-10.045081-56.079702-5.47041-30.775056-10.780867-61.582103-16.091323-92.38915-0.127963-1.119675 0-2.303331 0-4.286754z m-710.64147 108.032603c-0.44787 16.37924 0.543842 30.647093-1.695507 44.914947-0.671805 4.510689-1.983424 7.421843-6.846011 7.837722-10.428969 0.863749-20.825947 1.695507-31.190935 2.7512-5.02254 0.543842-6.430131-1.631526-7.261889-6.558094-2.335321-14.55577-1.919442-29.303484-3.327033-43.923234-2.655228-27.607976-3.774903-55.407897-5.566383-83.111846-0.44787-6.750038-1.119675-13.436095-1.663516-20.186134-0.287916-3.774903 1.215647-5.886289 5.246475-6.046242 13.500077-0.543842 26.936172-3.007126 40.50023-2.527266 7.933694 0.287916 8.605499 0.799768 9.181331 8.797443 0.351898 5.534392 0.255926 11.132765 0.383889 16.699147l2.239349 81.352357z m1134.902169-15.867388c0 19.066459 0.223935 38.132918-0.031991 57.199376-0.159954 9.917118-1.279628 10.780867-10.652904 11.644616-9.277304 0.863749-18.490626 1.567544-27.735939 2.559256-5.214485 0.543842-7.645778-0.991712-7.965685-6.973973-1.34361-25.336637-3.16708-50.673273-4.926568-75.977919-1.3756-20.985901-2.943145-41.939811-4.414717-62.893722-0.159954-2.399303-0.031991-4.798605-0.191944-7.165917-0.223935-4.190782 1.055693-6.654066 5.758326-6.81402 13.116188-0.44787 26.136404-2.975135 39.348564-2.495274 8.061657 0.287916 8.18962 0.415879 8.797444 8.797443 1.951433 27.32006 2.143377 54.704102 2.015414 82.120134zM628.295894 756.171918c16.571184 18.234701 17.402942 39.828425 11.932532 62.413861-5.502401 22.585436-18.042756 41.204025-33.23834 57.903171-25.49659 27.895893-56.303637 48.497905-89.062116 65.99682-56.399609 30.135242-116.190232 50.161422-178.572103 61.997982-44.882956 8.477536-90.053828 15.00364-135.704561 17.498914-13.915956 0.767777-27.799921 1.407591-41.715876 1.311619-10.077071 0-20.186133 0.287916-30.231214-0.063981-8.541518-0.319907-9.789155-1.791479-10.49295-10.716886-2.591247-32.022693-4.798605-64.077378-7.645778-96.100071-3.327033-37.109215-7.229899-74.18644-10.812858-111.295654-2.623238-26.8402-4.894578-53.744381-7.773741-80.520599-3.327033-31.542833-7.069945-63.021684-10.716885-94.564517-3.327033-29.111539-6.526103-58.28706-10.045081-87.430591-3.934856-32.278619-7.997676-64.493257-12.31642-96.707894a8228.968456 8228.968456 0 0 0-13.212161-92.996973 5984.500754 5984.500754 0 0 0-24.312934-152.627642 3243.825263 3243.825263 0 0 0-23.67312-123.740038c-1.151665-5.502401 0.511851-7.709759 5.342448-9.725174C52.335283 47.609843 98.465876 28.063524 144.724432 8.77313c8.605499-3.582959 17.434933-6.590085 26.584274-8.285592 6.334159-1.183656 7.965685 0.127963 7.773741 6.494113-0.479861 16.283268 0.191944 32.630517-1.407591 48.849803a161.393095 161.393095 0 0 0-0.639814 13.084197c-0.735786 58.383032-1.439582 116.798056 0.095972 175.213079 1.34361 51.185124 4.030829 102.338258 7.005964 153.491392 2.335321 40.372267 5.694345 80.744534 9.149341 121.052819 3.391014 39.508518 7.517815 78.953054 11.38869 118.461572 0.735786 7.517815 1.407591 8.221611 9.949108 7.069945a381.329176 381.329176 0 0 1 50.833227-4.190782c52.880632-0.127963 104.897514 7.133927 156.338564 19.322384 45.010919 10.684895 88.806191 24.920757 130.777993 44.818975 20.793957 9.853136 40.692174 21.241827 58.830902 35.701624 6.174206 4.862587 11.676606 10.46096 16.891091 16.315259z m1126.840512-9.597211c20.47405 17.946784 27.927883 39.924397 22.105576 67.116494-4.830596 22.425483-15.771416 41.268006-30.359177 58.127107-23.417194 27.096125-51.856929 47.698138-82.631985 64.909136-60.334465 33.782182-124.603787 55.727804-192.168151 68.396122a1151.089465 1151.089465 0 0 1-111.455609 15.547481c-21.177845 1.82347-42.451662 4.09481-66.220754 2.623238h-27.76793c-5.406429 0-8.477536-1.695507-8.925406-8.125638-2.047405-28.087837-4.414717-56.143683-6.941983-84.19953-2.687219-29.623391-5.662354-59.246781-8.477536-88.870172-2.559256-27.224088-4.926568-54.512157-7.709759-81.736245-2.559256-25.656544-5.502401-51.249106-8.285592-76.873659-2.591247-24.057008-5.086522-48.114017-7.933695-72.139035-3.423005-29.111539-7.037955-58.223079-10.652904-87.334618-3.391014-27.160107-6.750038-54.288222-10.364987-81.416338a6133.577429 6133.577429 0 0 0-12.156467-87.142675c-5.694345-37.653057-11.804569-75.178151-17.818822-112.767227a3259.14881 3259.14881 0 0 0-29.111539-158.993792c-0.44787-2.335321-0.671805-4.734624-1.3756-7.005964-1.663517-5.118512-0.063981-7.837722 4.958559-9.821146C1191.012355 47.641834 1238.61452 24.448575 1288.2321 6.149893c6.494113-2.431293 13.052207-5.150503 20.058171-5.854299 6.302168-0.639814 7.901704 0.383888 7.29388 7.101936-3.327033 36.43741-1.407591 73.066765-3.135089 109.536166-1.407591 29.751354-1.247637 59.598679 0.255926 89.382023 0.351898 7.549806 0.639814 15.131602 0.575832 22.649418-0.383888 35.765606 1.503563 71.499221 3.327033 107.200845 2.335321 47.186286 5.758326 94.276601 9.245313 141.398906 2.527266 34.006117 5.822308 67.948253 9.021379 101.922379 1.695507 18.586598 3.518977 37.141206 5.822308 55.631832 1.247637 10.205034 1.759489 10.301006 11.772578 8.957396 17.658868-2.399303 35.349726-4.350736 53.200539-4.09481 62.637796 0.799768 124.027954 10.684895 184.266447 27.863902 40.788146 11.580634 80.488608 26.040432 117.981712 46.290547a253.55831 253.55831 0 0 1 47.218277 32.438573zM308.676783 922.811488c23.161269-11.068783 135.608589-98.947243 144.533995-113.279078-54.576139-23.513166-109.344222-45.362816-168.239105-63.24562l23.70511 176.524698z m1277.196815-107.520752c2.879163-3.103098 2.559256-5.502401-1.343609-7.229899-7.773741-3.550968-15.4835-7.325871-23.353213-10.556932-42.003793-17.179007-84.19953-33.814173-127.482951-47.37823-3.774903-1.151665-7.645778-3.774903-12.476374-1.535554l23.321222 173.45359c3.454996 0.767777 4.798605-0.831758 6.33416-1.919442 39.316574-28.855614 78.889073-57.35933 116.638102-88.390312 6.36615-5.182494 12.668318-10.396978 18.362663-16.443221z" fill="#00a1d6">
+            </path>
+           </svg>
+           主站
+           <svg aria-hidden="true" class="navbar_pullup" data-v-73192b08="" viewbox="0 0 1024 1024">
+            <path d="M511.936 455.808l214.976 214.976a48 48 0 1 0 67.904-67.904L545.92 353.984a48 48 0 0 0-67.904 0L229.12 602.88a48 48 0 1 0 67.904 67.904l214.912-214.976z" fill="#999">
+            </path>
+           </svg>
+          </a>
+         </span>
+        </li>
+        <li class="nav-link-item" data-v-73192b08="">
+         <a class="link" data-v-73192b08="" href="//www.bilibili.com/anime/" target="_blank">
+          番剧
+         </a>
+        </li>
+        <li class="nav-link-item" data-v-73192b08="">
+         <span data-v-73192b08="">
+          <a class="link van-popover__reference" data-v-73192b08="" href="//game.bilibili.com" tabindex="0" target="_blank">
+           游戏中心
+          </a>
+         </span>
+        </li>
+        <li class="nav-link-item" data-v-73192b08="">
+         <span data-v-73192b08="">
+          <a class="link van-popover__reference" data-v-73192b08="" href="//live.bilibili.com" tabindex="0" target="_blank">
+           直播
+          </a>
+         </span>
+        </li>
+        <li class="nav-link-item" data-v-73192b08="">
+         <a class="link" data-v-73192b08="" href="//show.bilibili.com/platform/home.html?msource=pc_web" target="_blank">
+          会员购
+         </a>
+        </li>
+        <li class="nav-link-item" data-v-73192b08="">
+         <span data-v-73192b08="">
+          <a class="link van-popover__reference" data-v-73192b08="" href="//manga.bilibili.com?from=bill_top_mnav" tabindex="0" target="_blank">
+           漫画
+          </a>
+         </span>
+        </li>
+        <li class="nav-link-item" data-v-73192b08="">
+         <a class="link" data-v-73192b08="" href="//www.bilibili.com/v/game/match/" target="_blank">
+          赛事
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="nav-user-center" data-v-73192b08="">
+       <div data-v-73192b08="">
+        <span data-v-73192b08="">
+         <span class="mini-upload van-popover__reference" data-v-73192b08="" tabindex="0">
+          投稿
+         </span>
+        </span>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="v-wrap">
+    <div class="l-con">
+     <div class="video-info report-wrap-module report-scroll-module" id="viewbox_report">
+      <h1 class="video-title" title="最全最新Vue、Vuejs教程，从入门到精通">
+       <!-- -->
+       <span class="tit">
+        最全最新Vue、Vuejs教程，从入门到精通
+       </span>
+      </h1>
+      <div class="video-data">
+       <span class="view" title="总播放数5730539">
+        573.1万播放 ·
+       </span>
+       <span class="dm" title="历史累计弹幕数280182">
+        总弹幕数28.0万
+       </span>
+       <span>
+        2020-02-18 00:05:36
+       </span>
+       <!-- -->
+      </div>
+     </div>
+     <div class="player-wrap" id="playerWrap">
+      <div id="bilibili-player">
+      </div>
+     </div>
+     <div class="video-toolbar report-wrap-module report-scroll-module" id="arc_toolbar_report">
+      <div class="ops">
+       <!-- -->
+       <!-- -->
+       <!-- -->
+       <!-- -->
+       <span class="like" title="点赞数46545">
+        <!-- -->
+        <!-- -->
+        <!-- -->
+        <!-- -->
+        <i class="van-icon-videodetails_like">
+        </i>
+        4.7万
+       </span>
+       <span class="coin" title="投硬币枚数">
+        <canvas class="ring-progress" height="34" style="width:34px;height:34px;left:-3px;top:-3px;" width="34">
+        </canvas>
+        <!-- -->
+        <i class="van-icon-videodetails_throw" style="color:;">
+        </i>
+        5.0万
+       </span>
+       <span class="collect" title="收藏人数">
+        <canvas class="ring-progress" height="34" style="width:34px;height:34px;left:-3px;top:-3px;" width="34">
+        </canvas>
+        <!-- -->
+        <i class="van-icon-videodetails_collec" style="color:;">
+        </i>
+        11.5万
+       </span>
+       <span class="share" title="分享">
+        <i class="van-icon-videodetails_share">
+        </i>
+        1.8万
+        <!-- -->
+       </span>
+      </div>
+      <div class="more">
+       <i class="van-icon-general_moreactions">
+       </i>
+       <!-- -->
+      </div>
+      <div class="rigth-btn">
+       <div class="appeal-text">
+        稿件投诉
+       </div>
+       <!-- -->
+      </div>
+     </div>
+     <div class="video-desc" id="v_desc">
+      <div class="tip-info">
+       <span class="copyright">
+        <i class="van-icon-info_prohibit">
+        </i>
+        未经作者授权，禁止转载
+       </span>
+      </div>
+      <div class="desc-info desc-v2 open">
+       <span>
+        学习资料添加微信 ilovecoding，我尽力了
+你们的三连看着办吧，老师微信 coderwhy00（之前那个满了），老师也来B站了
+       </span>
+      </div>
+      <!-- -->
+      <!-- -->
+     </div>
+     <div class="s_tag report-wrap-module report-scroll-module" id="v_tag">
+      <ul class="tag-area clearfix">
+       <li class="tag">
+        <!-- -->
+        <a class="tag-link" href="//www.bilibili.com/v/knowledge/" target="_blank">
+         <span>
+          知识
+         </span>
+        </a>
+       </li>
+       <li class="tag">
+        <!-- -->
+        <a class="tag-link" href="//www.bilibili.com/v/knowledge/skill" target="_blank">
+         <span>
+          野生技能协会
+         </span>
+        </a>
+       </li>
+       <li class="tag">
+        <!-- -->
+        <div>
+         <a class="tag-link" href="//search.bilibili.com/all?keyword=VUE&amp;from_source=video_tag" target="_blank">
+          VUE
+         </a>
+         <!-- -->
+        </div>
+       </li>
+       <li class="tag">
+        <!-- -->
+        <div>
+         <a class="tag-link" href="//search.bilibili.com/all?keyword=VUEJS&amp;from_source=video_tag" target="_blank">
+          VUEJS
+         </a>
+         <!-- -->
+        </div>
+       </li>
+       <li class="tag">
+        <!-- -->
+        <div>
+         <a class="tag-link" href="//search.bilibili.com/all?keyword=%E5%89%8D%E7%AB%AF&amp;from_source=video_tag" target="_blank">
+          前端
+         </a>
+         <!-- -->
+        </div>
+       </li>
+       <li class="tag">
+        <!-- -->
+        <div>
+         <a class="tag-link" href="//search.bilibili.com/all?keyword=%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91&amp;from_source=video_tag" target="_blank">
+          前端开发
+         </a>
+         <!-- -->
+        </div>
+       </li>
+       <li class="tag">
+        <!-- -->
+        <div>
+         <a class="tag-link" href="//search.bilibili.com/all?keyword=vue&amp;from_source=video_tag" target="_blank">
+          vue
+         </a>
+         <!-- -->
+        </div>
+       </li>
+       <li class="tag">
+        <!-- -->
+        <div>
+         <a class="tag-link" href="//search.bilibili.com/all?keyword=JavaScript&amp;from_source=video_tag" target="_blank">
+          JavaScript
+         </a>
+         <!-- -->
+        </div>
+       </li>
+       <li class="tag">
+        <!-- -->
+        <div>
+         <a class="tag-link" href="//search.bilibili.com/all?keyword=JS&amp;from_source=video_tag" target="_blank">
+          JS
+         </a>
+         <!-- -->
+        </div>
+       </li>
+       <li class="tag">
+        <!-- -->
+        <div>
+         <a class="tag-link" href="//search.bilibili.com/all?keyword=WEBPACK&amp;from_source=video_tag" target="_blank">
+          WEBPACK
+         </a>
+         <!-- -->
+        </div>
+       </li>
+       <li class="tag">
+        <!-- -->
+        <div>
+         <a class="tag-link" href="//search.bilibili.com/all?keyword=WEB%E5%89%8D%E7%AB%AF&amp;from_source=video_tag" target="_blank">
+          WEB前端
+         </a>
+         <!-- -->
+        </div>
+       </li>
+       <!-- -->
+       <!-- -->
+       <!-- -->
+      </ul>
+     </div>
+     <!-- -->
+     <a class="ad-report ad-floor report-wrap-module report-scroll-module" data-loc-id="2629" data-target-url="" data-v-6e67b0e4="" data-v-bfde4ce6="" href="javascript:void(0);" id="bannerAd" target="_blank">
+     </a>
+     <div class="comment-m report-wrap-module report-scroll-module" id="comment">
+      <div class="common">
+       <div class="b-head">
+        <span class="b-head-t results">
+        </span>
+        <span class="b-head-t">
+         评论
+        </span>
+       </div>
+       <div class="comment">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="r-con">
+     <div>
+      <div class="up-info report-wrap-module report-scroll-module" id="v_upinfo">
+       <div class="u-face">
+        <a class="u-face__avatar" href="//space.bilibili.com/36139192" report-id="head" target="_blank">
+        </a>
+       </div>
+       <div class="up-info_right">
+        <div class="name" style="line-height:20px;height:20px;">
+         <!-- -->
+         <a class="username is_vip" href="//space.bilibili.com/36139192" report-id="name" style="color:#FB7299;" target="_blank">
+          ilovecoding
+          <span class="mask">
+          </span>
+         </a>
+         <a class="message" href="//message.bilibili.com/#whisper/mid36139192" target="_blank">
+          <i class="van-icon-videodetails_messag">
+          </i>
+          发消息
+         </a>
+        </div>
+        <div class="desc" title="希望跟着老师学习的可以添加老师微信 coderwhy123">
+         希望跟着老师学习的可以添加老师微信 coderwhy123
+        </div>
+        <div class="btn-panel">
+         <!-- -->
+         <div class="default-btn follow-btn">
+         </div>
+         <!-- -->
+         <div class="default-btn follow-btn btn-transition b-gz not-follow" style="display:none;">
+          <span>
+           <i class="van-icon-general_addto_s">
+           </i>
+           关注
+           <span>
+            8.2万
+           </span>
+          </span>
+          <!-- -->
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="danmaku-box" id="danmukuBox">
+      <div class="danmaku-wrap">
+      </div>
+     </div>
+     <div class="slide-ad report-wrap-module report-scroll-module" data-v-dc5ae6da="" id="slide_ad">
+      <!-- -->
+     </div>
+     <a class="ad-report report-wrap-module report-scroll-module" data-loc-id="4331" data-target-url="" data-v-6e67b0e4="" data-v-f972261c="" href="javascript:void(0);" target="_blank">
+      <div class="vcd" data-loc-id="4330" data-v-6e67b0e4="" data-v-f972261c="">
+       <div class="cover" data-v-6e67b0e4="" data-v-f972261c="">
+        <!-- -->
+       </div>
+       <div class="info" data-v-6e67b0e4="" data-v-f972261c="">
+        <div class="title" data-v-6e67b0e4="" data-v-f972261c="">
+         每天建模半小时，在家接单赚钱养活自己！！！
+        </div>
+        <div class="rest" data-v-6e67b0e4="" data-v-f972261c="">
+         <!-- -->
+         <span class="desc" data-v-6e67b0e4="" data-v-f972261c="">
+          零基础学游戏建模
+         </span>
+        </div>
+       </div>
+      </div>
+     </a>
+     <!-- -->
+     <div class="multi-page report-wrap-module report-scroll-module" id="multi_page">
+      <div class="head-con">
+       <div class="head-left">
+        <h3>
+         视频选集
+        </h3>
+        <span class="cur-page">
+         (1/232)
+        </span>
+        <div class="range-box">
+         <i class="van-icon-general_viewlist">
+         </i>
+         <!-- -->
+        </div>
+       </div>
+       <div class="head-right">
+        <span class="next-button">
+         <span class="txt">
+          自动连播
+         </span>
+         <span class="switch-button on">
+         </span>
+        </span>
+       </div>
+      </div>
+      <div class="cur-list">
+       <ul class="list-box">
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+        <li>
+         <!-- -->
+        </li>
+       </ul>
+       <!-- -->
+      </div>
+     </div>
+     <!-- -->
+     <!-- -->
+     <div class="recommend-list report-wrap-module report-scroll-module" id="reco_list">
+      <!-- -->
+      <!-- -->
+      <div class="rec-list">
+       <div>
+        <div class="video-page-special-card" data-v-91571770="">
+         <div class="card-box" data-v-91571770="">
+          <div class="pic-box" data-v-91571770="">
+           <div class="pic" data-v-91571770="">
+            <img alt="保真前端知识，技术大佬亲传的【降维开发】思路" data-v-91571770="" height="95" src="" width="168"/>
+           </div>
+          </div>
+          <div class="info" data-v-91571770="">
+           <a class="title" data-v-91571770="" href="https://www.bilibili.com/cheese/play/ss373?csource=UGCplayer_relevantclass" target="_blank" title="保真前端知识，技术大佬亲传的【降维开发】思路">
+            保真前端知识，技术大佬亲传的【降维开发】思路
+           </a>
+           <div class="desc" data-v-91571770="">
+            系统入门到实战
+           </div>
+          </div>
+         </div>
+        </div>
+        <!-- -->
+        <!-- -->
+       </div>
+       <div class="video-page-card">
+        <div class="card-box">
+         <div class="pic-box">
+          <div class="pic">
+           <a href="/video/BV1Zy4y1K7SH/?spm_id_from=333.788.videocard.0">
+            <img alt="尚硅谷Vue2.0+Vue3.0全套教程丨vuejs从入门到精通" height="95" src="" width="168"/>
+           </a>
+           <span class="mask-video">
+           </span>
+           <!-- -->
+          </div>
+          <!-- -->
+         </div>
+         <div class="info">
+          <a href="/video/BV1Zy4y1K7SH/?spm_id_from=333.788.videocard.0">
+           <span class="title" title="尚硅谷Vue2.0+Vue3.0全套教程丨vuejs从入门到精通">
+            尚硅谷Vue2.0+Vue3.0全套教程丨vuejs从入门到精通
+           </span>
+          </a>
+          <div class="count up">
+           <a href="//space.bilibili.com/302417610/" style="display:;" target="_blank">
+            尚硅谷
+           </a>
+          </div>
+          <div class="count">
+           344.3万 播放 · 13.3万 弹幕
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="video-page-card">
+        <div class="card-box">
+         <div class="pic-box">
+          <div class="pic">
+           <a href="/video/BV1r4411d7dn/?spm_id_from=333.788.videocard.1">
+            <img alt="Vue.js从入门到精通教程" height="95" src="" width="168"/>
+           </a>
+           <span class="mask-video">
+           </span>
+           <!-- -->
+          </div>
+          <!-- -->
+         </div>
+         <div class="info">
+          <a href="/video/BV1r4411d7dn/?spm_id_from=333.788.videocard.1">
+           <span class="title" title="Vue.js从入门到精通教程">
+            Vue.js从入门到精通教程
+           </span>
+          </a>
+          <div class="count up">
+           <a href="//space.bilibili.com/434398067/" style="display:;" target="_blank">
+            黑马程序员教程资源
+           </a>
+          </div>
+          <div class="count">
+           37.6万 播放 · 3099 弹幕
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="video-page-card">
+        <div class="card-box">
+         <div class="pic-box">
+          <div class="pic">
+           <a href="/video/BV1ay4y1r78B/?spm_id_from=333.788.videocard.2">
+            <img alt="ES6从入门到精通系列(全23讲)，开发必备，推荐必看" height="95" src="" width="168"/>
+           </a>
+           <span class="mask-video">
+           </span>
+           <!-- -->
+          </div>
+          <!-- -->
+         </div>
+         <div class="info">
+          <a href="/video/BV1ay4y1r78B/?spm_id_from=333.788.videocard.2">
+           <span class="title" title="ES6从入门到精通系列(全23讲)，开发必备，推荐必看">
+            ES6从入门到精通系列(全23讲)，开发必备，推荐必看
+           </span>
+          </a>
+          <div class="count up">
+           <a href="//space.bilibili.com/405541217/" style="display:;" target="_blank">
+            小马哥_老师
+           </a>
+          </div>
+          <div class="count">
+           7.1万 播放 · 1229 弹幕
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="video-page-card">
+        <div class="card-box">
+         <div class="pic-box">
+          <div class="pic">
+           <a href="/video/BV1yY411x724/?spm_id_from=333.788.videocard.3">
+            <img alt="冒死上传：Vue从入门到精通（通俗易懂快速上手，适合零基础）小白快速入门vue.js、vue前端基础教程-4个小时带你快速入门vue" height="95" src="" width="168"/>
+           </a>
+           <span class="mask-video">
+           </span>
+           <!-- -->
+          </div>
+          <!-- -->
+         </div>
+         <div class="info">
+          <a href="/video/BV1yY411x724/?spm_id_from=333.788.videocard.3">
+           <span class="title" title="冒死上传：Vue从入门到精通（通俗易懂快速上手，适合零基础）小白快速入门vue.js、vue前端基础教程-4个小时带你快速入门vue">
+            冒死上传：Vue从入门到精通（通俗易懂快速上手，适合零基础）小白快速入门vue.js、vue前端基础教程-4个小时带你快速入门vue
+           </span>
+          </a>
+          <div class="count up">
+           <a href="//space.bilibili.com/505965036/" style="display:;" target="_blank">
+            杭州码歌
+           </a>
+          </div>
+          <div class="count">
+           1.1万 播放 · 170 弹幕
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="video-page-card">
+        <div class="card-box">
+         <div class="pic-box">
+          <div class="pic">
+           <a href="/video/BV1eQ4y1q7xq/?spm_id_from=333.788.videocard.4">
+            <img alt="这可能是B站讲的最好的Vue教程，5h打通vue全套教程丨2021最新版，Vue2.0+Vue3.0从入门到精通，大厂前端必备技能（附源码&amp;笔记）" height="95" src="" width="168"/>
+           </a>
+           <span class="mask-video">
+           </span>
+           <!-- -->
+          </div>
+          <!-- -->
+         </div>
+         <div class="info">
+          <a href="/video/BV1eQ4y1q7xq/?spm_id_from=333.788.videocard.4">
+           <span class="title" title="这可能是B站讲的最好的Vue教程，5h打通vue全套教程丨2021最新版，Vue2.0+Vue3.0从入门到精通，大厂前端必备技能（附源码&amp;笔记）">
+            这可能是B站讲的最好的Vue教程，5h打通vue全套教程丨2021最新版，Vue2.0+Vue3.0从入门到精通，大厂前端必备技能（附源码&amp;笔记）
+           </span>
+          </a>
+          <div class="count up">
+           <a href="//space.bilibili.com/1889891471/" style="display:;" target="_blank">
+            不会取名字的程序猿
+           </a>
+          </div>
+          <div class="count">
+           8033 播放 · 8 弹幕
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="video-page-card">
+        <div class="card-box">
+         <div class="pic-box">
+          <div class="pic">
+           <a href="/video/BV1if4y1F7gR/?spm_id_from=333.788.videocard.5">
+            <img alt="这可能是B站讲的最好的Vue教程，5h打通vue全套教程丨2021最新版，Vue2.0+Vue3.0从入门到精通，大厂前端必备技能" height="95" src="" width="168"/>
+           </a>
+           <span class="mask-video">
+           </span>
+           <!-- -->
+          </div>
+          <!-- -->
+         </div>
+         <div class="info">
+          <a href="/video/BV1if4y1F7gR/?spm_id_from=333.788.videocard.5">
+           <span class="title" title="这可能是B站讲的最好的Vue教程，5h打通vue全套教程丨2021最新版，Vue2.0+Vue3.0从入门到精通，大厂前端必备技能">
+            这可能是B站讲的最好的Vue教程，5h打通vue全套教程丨2021最新版，Vue2.0+Vue3.0从入门到精通，大厂前端必备技能
+           </span>
+          </a>
+          <div class="count up">
+           <a href="//space.bilibili.com/2119017152/" style="display:;" target="_blank">
+            这个程序猿有点呆
+           </a>
+          </div>
+          <div class="count">
+           4.0万 播放 · 334 弹幕
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="video-page-card">
+        <div class="card-box">
+         <div class="pic-box">
+          <div class="pic">
+           <a href="/video/BV1Fu411f7qi/?spm_id_from=333.788.videocard.6">
+            <img alt="【Vue+ElementUI】这可能是B站讲的最好的Vue教程，5h打通vue全套教程丨2021最新版，Vue2.0+Vue3.0从入门到精通，大厂前端必备技能" height="95" src="" width="168"/>
+           </a>
+           <span class="mask-video">
+           </span>
+           <!-- -->
+          </div>
+          <!-- -->
+         </div>
+         <div class="info">
+          <a href="/video/BV1Fu411f7qi/?spm_id_from=333.788.videocard.6">
+           <span class="title" title="【Vue+ElementUI】这可能是B站讲的最好的Vue教程，5h打通vue全套教程丨2021最新版，Vue2.0+Vue3.0从入门到精通，大厂前端必备技能">
+            【Vue+ElementUI】这可能是B站讲的最好的Vue教程，5h打通vue全套教程丨2021最新版，Vue2.0+Vue3.0从入门到精通，大厂前端必备技能
+           </span>
+          </a>
+          <div class="count up">
+           <a href="//space.bilibili.com/1346052604/" style="display:;" target="_blank">
+            全栈哩哩o
+           </a>
+          </div>
+          <div class="count">
+           2.9万 播放 · 148 弹幕
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="video-page-card">
+        <div class="card-box">
+         <div class="pic-box">
+          <div class="pic">
+           <a href="/video/BV15v411T7UX/?spm_id_from=333.788.videocard.7">
+            <img alt="2021最全最新版VUE2.0+VUE3.0全套教程（上部），前端vuejs必备教程_从入门到精通vue项目实战挑战高薪，人类高质量课程" height="95" src="" width="168"/>
+           </a>
+           <span class="mask-video">
+           </span>
+           <!-- -->
+          </div>
+          <!-- -->
+         </div>
+         <div class="info">
+          <a href="/video/BV15v411T7UX/?spm_id_from=333.788.videocard.7">
+           <span class="title" title="2021最全最新版VUE2.0+VUE3.0全套教程（上部），前端vuejs必备教程_从入门到精通vue项目实战挑战高薪，人类高质量课程">
+            2021最全最新版VUE2.0+VUE3.0全套教程（上部），前端vuejs必备教程_从入门到精通vue项目实战挑战高薪，人类高质量课程
+           </span>
+          </a>
+          <div class="count up">
+           <a href="//space.bilibili.com/513719037/" style="display:;" target="_blank">
+            黑马前端教程
+           </a>
+          </div>
+          <div class="count">
+           1.4万 播放 · 127 弹幕
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="video-page-card">
+        <div class="card-box">
+         <div class="pic-box">
+          <div class="pic">
+           <a href="/video/BV1zq4y1p7ga/?spm_id_from=333.788.videocard.8">
+            <img alt="黑马程序员Vue全套视频教程，从vue2.0到vue3.0一套全覆盖，前端必会的框架教程" height="95" src="" width="168"/>
+           </a>
+           <span class="mask-video">
+           </span>
+           <!-- -->
+          </div>
+          <!-- -->
+         </div>
+         <div class="info">
+          <a href="/video/BV1zq4y1p7ga/?spm_id_from=333.788.videocard.8">
+           <span class="title" title="黑马程序员Vue全套视频教程，从vue2.0到vue3.0一套全覆盖，前端必会的框架教程">
+            黑马程序员Vue全套视频教程，从vue2.0到vue3.0一套全覆盖，前端必会的框架教程
+           </span>
+          </a>
+          <div class="count up">
+           <a href="//space.bilibili.com/37974444/" style="display:;" target="_blank">
+            黑马程序员
+           </a>
+          </div>
+          <div class="count">
+           88.7万 播放 · 3.7万 弹幕
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="video-page-card">
+        <div class="card-box">
+         <div class="pic-box">
+          <div class="pic">
+           <a href="/video/BV1gf4y1W783/?spm_id_from=333.788.videocard.9">
+            <img alt="【2021年5月更新】Vue3+TypeScript从入门到实战全系列教程" height="95" src="" width="168"/>
+           </a>
+           <span class="mask-video">
+           </span>
+           <!-- -->
+          </div>
+          <!-- -->
+         </div>
+         <div class="info">
+          <a href="/video/BV1gf4y1W783/?spm_id_from=333.788.videocard.9">
+           <span class="title" title="【2021年5月更新】Vue3+TypeScript从入门到实战全系列教程">
+            【2021年5月更新】Vue3+TypeScript从入门到实战全系列教程
+           </span>
+          </a>
+          <div class="count up">
+           <a href="//space.bilibili.com/386251804/" style="display:;" target="_blank">
+            北京一灯教育
+           </a>
+          </div>
+          <div class="count">
+           10.6万 播放 · 813 弹幕
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="video-page-card">
+        <div class="card-box">
+         <div class="pic-box">
+          <div class="pic">
+           <a href="/video/BV1L5411j7vj/?spm_id_from=333.788.videocard.10">
+            <img alt="Vue3.x+TypeScript 从入门到实战-2020年新版-技术胖" height="95" src="" width="168"/>
+           </a>
+           <span class="mask-video">
+           </span>
+           <!-- -->
+          </div>
+          <!-- -->
+         </div>
+         <div class="info">
+          <a href="/video/BV1L5411j7vj/?spm_id_from=333.788.videocard.10">
+           <span class="title" title="Vue3.x+TypeScript 从入门到实战-2020年新版-技术胖">
+            Vue3.x+TypeScript 从入门到实战-2020年新版-技术胖
+           </span>
+          </a>
+          <div class="count up">
+           <a href="//space.bilibili.com/165659472/" style="display:;" target="_blank">
+            技术胖
+           </a>
+          </div>
+          <div class="count">
+           12.1万 播放 · 1837 弹幕
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="video-page-card">
+        <div class="card-box">
+         <div class="pic-box">
+          <div class="pic">
+           <a href="/video/BV1Yv411Y7tw/?spm_id_from=333.788.videocard.11">
+            <img alt="vue-element-admin 手把手实现前后台分离的安全控制" height="95" src="" width="168"/>
+           </a>
+           <span class="mask-video">
+           </span>
+           <!-- -->
+          </div>
+          <!-- -->
+         </div>
+         <div class="info">
+          <a href="/video/BV1Yv411Y7tw/?spm_id_from=333.788.videocard.11">
+           <span class="title" title="vue-element-admin 手把手实现前后台分离的安全控制">
+            vue-element-admin 手把手实现前后台分离的安全控制
+           </span>
+          </a>
+          <div class="count up">
+           <a href="//space.bilibili.com/614604519/" style="display:;" target="_blank">
+            Noble_Yang
+           </a>
+          </div>
+          <div class="count">
+           5.1万 播放 · 236 弹幕
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="video-page-card">
+        <div class="card-box">
+         <div class="pic-box">
+          <div class="pic">
+           <a href="/video/BV1cr4y1C71f/?spm_id_from=333.788.videocard.12">
+            <img alt="小白24小时速学VUE—完整版" height="95" src="" width="168"/>
+           </a>
+           <span class="mask-video">
+           </span>
+           <!-- -->
+          </div>
+          <!-- -->
+         </div>
+         <div class="info">
+          <a href="/video/BV1cr4y1C71f/?spm_id_from=333.788.videocard.12">
+           <span class="title" title="小白24小时速学VUE—完整版">
+            小白24小时速学VUE—完整版
+           </span>
+          </a>
+          <div class="count up">
+           <a href="//space.bilibili.com/393601975/" style="display:;" target="_blank">
+            小浩编程
+           </a>
+          </div>
+          <div class="count">
+           4.3万 播放 · 423 弹幕
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="video-page-card">
+        <div class="card-box">
+         <div class="pic-box">
+          <div class="pic">
+           <a href="/video/BV1La411F7y8/?spm_id_from=333.788.videocard.13">
+            <img alt="10分钟写一个vue登陆页面" height="95" src="" width="168"/>
+           </a>
+           <span class="mask-video">
+           </span>
+           <!-- -->
+          </div>
+          <!-- -->
+         </div>
+         <div class="info">
+          <a href="/video/BV1La411F7y8/?spm_id_from=333.788.videocard.13">
+           <span class="title" title="10分钟写一个vue登陆页面">
+            10分钟写一个vue登陆页面
+           </span>
+          </a>
+          <div class="count up">
+           <a href="//space.bilibili.com/275735289/" style="display:;" target="_blank">
+            tinumb
+           </a>
+          </div>
+          <div class="count">
+           3.8万 播放 · 57 弹幕
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="video-page-card">
+        <div class="card-box">
+         <div class="pic-box">
+          <div class="pic">
+           <a href="/video/BV15P4y1t7k9/?spm_id_from=333.788.videocard.14">
+            <img alt="前端vue电商后台管理项目" height="95" src="" width="168"/>
+           </a>
+           <span class="mask-video">
+           </span>
+           <!-- -->
+          </div>
+          <!-- -->
+         </div>
+         <div class="info">
+          <a href="/video/BV15P4y1t7k9/?spm_id_from=333.788.videocard.14">
+           <span class="title" title="前端vue电商后台管理项目">
+            前端vue电商后台管理项目
+           </span>
+          </a>
+          <div class="count up">
+           <a href="//space.bilibili.com/75405309/" style="display:;" target="_blank">
+            华子咿呀
+           </a>
+          </div>
+          <div class="count">
+           8.7万 播放 · 536 弹幕
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="video-page-card">
+        <div class="card-box">
+         <div class="pic-box">
+          <div class="pic">
+           <a href="/video/BV1ra4y1H7ih/?spm_id_from=333.788.videocard.15">
+            <img alt="尚硅谷Vue.JS教程快速入门到项目实战（Vue3/VueJS技术详解）" height="95" src="" width="168"/>
+           </a>
+           <span class="mask-video">
+           </span>
+           <!-- -->
+          </div>
+          <!-- -->
+         </div>
+         <div class="info">
+          <a href="/video/BV1ra4y1H7ih/?spm_id_from=333.788.videocard.15">
+           <span class="title" title="尚硅谷Vue.JS教程快速入门到项目实战（Vue3/VueJS技术详解）">
+            尚硅谷Vue.JS教程快速入门到项目实战（Vue3/VueJS技术详解）
+           </span>
+          </a>
+          <div class="count up">
+           <a href="//space.bilibili.com/302417610/" style="display:;" target="_blank">
+            尚硅谷
+           </a>
+          </div>
+          <div class="count">
+           37.7万 播放 · 6119 弹幕
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="video-page-card">
+        <div class="card-box">
+         <div class="pic-box">
+          <div class="pic">
+           <a href="/video/BV1TU4y1p7zU/?spm_id_from=333.788.videocard.16">
+            <img alt="【优极限】2021最新完整版Bootstrap教程（最给力的前端框架）bootstrap框架讲解-快速上手,最适合后端开发人员的bootstrap保姆级使用教程" height="95" src="" width="168"/>
+           </a>
+           <span class="mask-video">
+           </span>
+           <!-- -->
+          </div>
+          <!-- -->
+         </div>
+         <div class="info">
+          <a href="/video/BV1TU4y1p7zU/?spm_id_from=333.788.videocard.16">
+           <span class="title" title="【优极限】2021最新完整版Bootstrap教程（最给力的前端框架）bootstrap框架讲解-快速上手,最适合后端开发人员的bootstrap保姆级使用教程">
+            【优极限】2021最新完整版Bootstrap教程（最给力的前端框架）bootstrap框架讲解-快速上手,最适合后端开发人员的bootstrap保姆级使用教程
+           </span>
+          </a>
+          <div class="count up">
+           <a href="//space.bilibili.com/292012346/" style="display:;" target="_blank">
+            爱代码的全栈念小安
+           </a>
+          </div>
+          <div class="count">
+           16.0万 播放 · 1831 弹幕
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="video-page-card">
+        <div class="card-box">
+         <div class="pic-box">
+          <div class="pic">
+           <a href="/video/BV1uK411H7on/?spm_id_from=333.788.videocard.17">
+            <img alt="尚硅谷Web前端ES6教程，涵盖ES6-ES11" height="95" src="" width="168"/>
+           </a>
+           <span class="mask-video">
+           </span>
+           <!-- -->
+          </div>
+          <!-- -->
+         </div>
+         <div class="info">
+          <a href="/video/BV1uK411H7on/?spm_id_from=333.788.videocard.17">
+           <span class="title" title="尚硅谷Web前端ES6教程，涵盖ES6-ES11">
+            尚硅谷Web前端ES6教程，涵盖ES6-ES11
+           </span>
+          </a>
+          <div class="count up">
+           <a href="//space.bilibili.com/302417610/" style="display:;" target="_blank">
+            尚硅谷
+           </a>
+          </div>
+          <div class="count">
+           74.1万 播放 · 1.8万 弹幕
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="video-page-card">
+        <div class="card-box">
+         <div class="pic-box">
+          <div class="pic">
+           <a href="/video/BV1x64y1S7S7/?spm_id_from=333.788.videocard.18">
+            <img alt="【黑马程序员】前端开发之Vue项目实战_Element-UI【配套源码+笔记】" height="95" src="" width="168"/>
+           </a>
+           <span class="mask-video">
+           </span>
+           <!-- -->
+          </div>
+          <!-- -->
+         </div>
+         <div class="info">
+          <a href="/video/BV1x64y1S7S7/?spm_id_from=333.788.videocard.18">
+           <span class="title" title="【黑马程序员】前端开发之Vue项目实战_Element-UI【配套源码+笔记】">
+            【黑马程序员】前端开发之Vue项目实战_Element-UI【配套源码+笔记】
+           </span>
+          </a>
+          <div class="count up">
+           <a href="//space.bilibili.com/501177781/" style="display:;" target="_blank">
+            黑马程序员济南中心
+           </a>
+          </div>
+          <div class="count">
+           39.8万 播放 · 8000 弹幕
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="video-page-card">
+        <div class="card-box">
+         <div class="pic-box">
+          <div class="pic">
+           <a href="/video/BV1U44y1W77D/?spm_id_from=333.788.videocard.19">
+            <img alt="从0开始带你手撸一套SpringBoot+Vue后台管理系统（2022年最新版）" height="95" src="" width="168"/>
+           </a>
+           <span class="mask-video">
+           </span>
+           <!-- -->
+          </div>
+          <!-- -->
+         </div>
+         <div class="info">
+          <a href="/video/BV1U44y1W77D/?spm_id_from=333.788.videocard.19">
+           <span class="title" title="从0开始带你手撸一套SpringBoot+Vue后台管理系统（2022年最新版）">
+            从0开始带你手撸一套SpringBoot+Vue后台管理系统（2022年最新版）
+           </span>
+          </a>
+          <div class="count up">
+           <a href="//space.bilibili.com/402779077/" style="display:;" target="_blank">
+            程序员青戈
+           </a>
+          </div>
+          <div class="count">
+           14.0万 播放 · 2996 弹幕
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="rec-footer" style="display:;">
+       展开
+      </div>
+     </div>
+     <a class="ad-report ad-floor report-wrap-module report-scroll-module" data-loc-id="3039" data-target-url="" data-v-6e67b0e4="" data-v-bfde4ce6="" href="javascript:void(0);" id="right-bottom-banner" target="_blank">
+      <div class="lazy-img" data-v-bfde4ce6="">
+       <img alt="" src=""/>
+      </div>
+      <!-- -->
+      <span data-v-6e67b0e4="">
+       夏天见面穿好看的秘诀是...
+      </span>
+     </a>
+     <!-- -->
+    </div>
+    <!-- -->
+    <!-- -->
+    <!-- -->
+    <div>
+     <div class="float-nav" style="display:none;">
+      <div class="nav-menu">
+       <div class="nav-btn-item backup" title="返回顶部">
+        <i class="van-icon-general_pullup_s">
+        </i>
+       </div>
+       <div class="nav-btn-item mini" title="点击打开迷你播放器">
+        <span>
+         mini
+        </span>
+        <span>
+         OFF
+        </span>
+       </div>
+       <a href="//www.bilibili.com/blackboard/help.html#%E5%B8%B8%E8%A7%81%E6%92%AD%E6%94%BE%E9%97%AE%E9%A2%98%E8%87%AA%E6%95%91%E6%96%B9%E6%B3%95" target="_blank" title="帮助反馈">
+        <div class="nav-btn-item help">
+         <i class="van-icon-floatwindow_custome">
+         </i>
+        </div>
+       </a>
+      </div>
+     </div>
+     <!-- -->
+    </div>
+    <!-- -->
+   </div>
+   <div>
+    <script type="text/javascript">
+     function gqs(name) {
+          var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)");
+          var r = window.location.search.substr(1).match(reg);
+          if (r != null) {
+            return unescape(r[2])
+          }
+          return null
+        }
+
+        var vd = window.__INITIAL_STATE__ && window.__INITIAL_STATE__.videoData
+        if(vd && vd.aid) {
+          if(vd.embedPlayer) {
+            var fp = gqs('p') || gqs('page') || null
+            var p = fp ? fp - 1 : 0
+            var playerInfo = {
+              aid: vd.aid,
+              bvid: vd.bvid,
+              cid: (vd.pages[p] && vd.pages[p].cid) || vd.pages[0].cid,
+              is_stein_gate: vd.rights.is_stein_gate,
+              from_spmid: gqs('spm_id_from') || '',
+            }
+            if(window.performance && window.performance.timing) {
+              performance.timing.embedPlayer = Date.now()
+            }
+            let seasonType = 0
+            if(vd.ugc_season) {
+              seasonType = vd.ugc_season.season_type || 0
+            }
+            if(vd.ugc_season && (seasonType === 0 || seasonType === 1)) {
+              EmbedPlayer("player", "//static.hdslb.com/play.swf", "cid=" + playerInfo.cid + "&aid=" + playerInfo.aid + "&bvid=" + playerInfo.bvid + "&attribute=" + playerInfo.is_stein_gate + "&show_bv=1" + "&isCollection=1" + "&from_spmid=" + playerInfo.from_spmid)
+            } else {
+              EmbedPlayer("player", "//static.hdslb.com/play.swf", "cid=" + playerInfo.cid + "&aid=" + playerInfo.aid + "&bvid=" + playerInfo.bvid + "&attribute=" + playerInfo.is_stein_gate + "&show_bv=1" + "&from_spmid=" + playerInfo.from_spmid)
+            }
+            window.isEmbedPlayer = true
+          }else if(vd.embed) {
+            document.querySelector("#bilibili-player").innerHTML = vd.embed
+          }
+        }
+    </script>
+   </div>
+   <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"VideoObject","name":"%E6%9C%80%E5%85%A8%E6%9C%80%E6%96%B0Vue%E3%80%81Vuejs%E6%95%99%E7%A8%8B%EF%BC%8C%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A","description":"%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%E6%B7%BB%E5%8A%A0%E5%BE%AE%E4%BF%A1%20ilovecoding%EF%BC%8C%E6%88%91%E5%B0%BD%E5%8A%9B%E4%BA%86%0D%0A%E4%BD%A0%E4%BB%AC%E7%9A%84%E4%B8%89%E8%BF%9E%E7%9C%8B%E7%9D%80%E5%8A%9E%E5%90%A7%EF%BC%8C%E8%80%81%E5%B8%88%E5%BE%AE%E4%BF%A1%20coderwhy00%EF%BC%88%E4%B9%8B%E5%89%8D%E9%82%A3%E4%B8%AA%E6%BB%A1%E4%BA%86%EF%BC%89%EF%BC%8C%E8%80%81%E5%B8%88%E4%B9%9F%E6%9D%A5B%E7%AB%99%E4%BA%86","thumbnailUrl":["http://i1.hdslb.com/bfs/archive/b1b39b6bb046f05940bc3232ede968870b06b10a.jpg"],"uploadDate":"2022-04-02T16:27:43.112Z","interactionStatistic":{"@type":"InteractionCounter","interactionType":{"@type":"http://schema.org/WatchAction"},"userInteractionCount":5730539}}
+   </script>
+  </div>
+  <script>
+   window.webAbTest||(window.webAbTest={});try{window.__INITIAL_STATE__&&(window.webAbTest.pageAbTest=window.__INITIAL_STATE__.pageAbTest,window.webAbTest.buvidAbTest=window.__INITIAL_STATE__.buvidAbTest,window.webAbTest.pageVersion=window.__INITIAL_STATE__.pageVersion,window.webAbTest.videoGoOldVersion=window.__INITIAL_STATE__.videoGoOldVersion)}catch(w){console.error(w)}window.abtest=window.webAbTest
+  </script>
+  <script src="//s1.hdslb.com/bfs/static/jinkela/long/js/sentry/sentry-5.7.1.min.js" type="text/javascript">
+  </script>
+  <script src="//s1.hdslb.com/bfs/static/jinkela/long/js/sentry/sentry-5.7.1.vue.min.js" type="text/javascript">
+  </script>
+  <script crossorigin="" src="//s1.hdslb.com/bfs/seed/log/report/log-reporter.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   var ad_url="https://s1.hdslb.com/bfs/cm/cm-sdk/static/js/bili-collect.js";function loadScript(e,i){var n=document.createElement("script");n.type="text/javascript",n.src=e,document.body.appendChild(n),n.onload=function(){"function"==typeof i&&i()}}function loadLink(e){var i=document.createElement("link");i.rel="stylesheet",i.type="text/css",i.href=e,document.body.appendChild(i)}if(window.loginInfoCallbacks=[],window.onLoginInfoLoaded=function(e,i){loginInfoCallbacks.push([e,i])},window.__INITIAL_STATE__){var jsurl=window.__INITIAL_STATE__.insertScripts[0],isBiliPlayer=window.__INITIAL_STATE__.videoData.embedPlayer,isInit=!1;function insertScript(){isInit||(isInit=!0,loadScript(jsurl),loadScript(ad_url))}if(isBiliPlayer&&"hidden"!==document.visibilityState){window.performance&&window.performance.mark&&window.performance.mark("PlayerMediaLoading:start");var timeout=setTimeout(function(){insertScript()},2500);window.PlayerMediaLoaded=function(){window.isPlayerMediaLoaded=!0,window.performance&&window.performance.mark&&window.performance.mark("PlayerMediaLoading:end"),window.performance&&window.performance.measure&&window.performance.measure("PlayerMediaLoading","PlayerMediaLoading:start","PlayerMediaLoading:end"),window.performance&&window.performance.timing&&(performance.timing.mediaLoaded=Date.now()),insertScript(),clearTimeout(timeout),window.PlayerMediaLoaded=null,window.isWide=!!document.querySelector(".player-mode-widescreen"),setSize()}}else insertScript()}else document.write('<script src="'+ad_url+'"><\/script>')
+  </script>
+  <script type="text/javascript">
+   //防嵌入
+    (function(){try{if(parent!=self && (parent.document.domain!=document.domain	|| (document.referrer && !/^http(s)?:\/\/[.\w-]+\.bilibili\.com\//i.test(document.referrer)))){throw new Error("can't be iframed");}}catch(e){window.open(location.href, "_top");}})();
+
+    if (window.__INITIAL_STATE__) {
+      const isExp = window.__INITIAL_STATE__.isExp
+      if(isExp) {
+        document.body.classList.add('harmony-font')
+      }
+    }
+
+    var isHeaderV3 = getCookie('i-wanna-go-back') === '-1';
+    document.body.classList.add(isHeaderV3 ? 'header-v3' : 'header-v2');
+
+    if (/(Mac|iPhone|iPod|iPad)/i.test(window.navigator.platform)) {
+      document.body.classList.add('mac')
+    } else { document.body.classList.add('win')
+  }
+  </script>
+  <div style="display:none">
+   <a href="https://www.bilibili.com/v/game/match/">
+    赛事库
+   </a>
+   <a href="https://www.bilibili.com/cheese/">
+    课堂
+   </a>
+   <a href="https://www.bilibili.com/festival/2021bnj">
+    2021拜年纪
+   </a>
+  </div>
+ </body>
+</html>
